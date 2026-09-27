@@ -6,7 +6,6 @@
   --text-muted: #94a3b8;
   --primary: #2563eb;
   --primary-hover: #1d4ed8;
-  --cyan-accent: #06b6d4;
   --success-bg: #166534;
   --success-text: #4ade80;
   --error-bg: #991b1b;
@@ -51,7 +50,7 @@ body {
   border: 1px solid rgba(96, 165, 250, 0.3);
 }
 
-/* Practice Card */
+/* Practice Card Container */
 .practice-card {
   background: var(--card-bg);
   border: 1px solid var(--border-color);
@@ -72,7 +71,7 @@ body {
   margin-top: 4px;
 }
 
-/* Table Styling */
+/* Tables */
 .table-responsive {
   overflow-x: auto;
 }
@@ -95,6 +94,7 @@ body {
 .practice-table td, .master-table td {
   padding: 12px 16px;
   border-bottom: 1px solid var(--border-color);
+  vertical-align: top;
 }
 
 .row-id {
@@ -102,19 +102,26 @@ body {
   font-weight: 500;
 }
 
-.hint-text {
+.pronunciation {
   font-size: 1.1rem;
   font-weight: 600;
   color: #e2e8f0;
 }
 
-/* Input Fields */
+.bangla-meaning {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: normal;
+  margin-top: 2px;
+}
+
+/* Inputs & Memory Trick Hints */
 .input-field {
   width: 100%;
   background: var(--bg-color);
   border: 1px solid var(--border-color);
   color: var(--text-main);
-  padding: 8px 12px;
+  padding: 10px 12px;
   border-radius: 6px;
   font-size: 0.95rem;
 }
@@ -123,6 +130,20 @@ body {
   outline: none;
   border-color: var(--primary);
   box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.memory-hint {
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.1);
+  padding: 8px 12px;
+  border-radius: 6px;
+  border-left: 3px solid #ef4444;
+}
+
+.memory-hint.hidden {
+  display: none;
 }
 
 /* Buttons */
@@ -165,10 +186,11 @@ body {
 
 /* Status Badges */
 .status-badge {
-  padding: 4px 8px;
+  padding: 6px 10px;
   border-radius: 4px;
   font-size: 0.8rem;
   font-weight: 600;
+  display: inline-block;
 }
 
 .status-badge.pending {
@@ -186,14 +208,14 @@ body {
   color: var(--error-text);
 }
 
-/* Modal View */
+/* Master Log Modal */
 .modal-overlay {
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: center;
   align-items: center;

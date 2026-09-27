@@ -9,13 +9,12 @@ const closeLogBtn = document.getElementById('close-log-btn');
 const logModal = document.getElementById('log-modal');
 const masterLogRows = document.getElementById('master-log-rows');
 
-// 1. Fetch JSON Data on Load
+// Load Dataset
 async function loadWords() {
   try {
     const response = await fetch('data/words.json');
     wordsData = await response.json();
     
-    // Initialize stats if missing
     wordsData.forEach(word => {
       word.mistake_count = word.mistake_count || 0;
       word.total_tries = word.total_tries || 0;
@@ -29,12 +28,10 @@ async function loadWords() {
   }
 }
 
-// 2. Load 10 Adaptive Rows
+// Load 10 Adaptive Rows
 function loadNewBatch() {
-  // Sort high priority / mistake words first, then shuffle slightly
+  // Sort by priority score (words needing practice first)
   const sortedWords = [...wordsData].sort((a, b) => b.priority_score - a.priority_score);
-  
-  // Pick top 10 or random sample
   currentBatch = sortedWords.slice(0, 10);
 
   practiceRows.innerHTML = '';
@@ -42,7 +39,10 @@ function loadNewBatch() {
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td class="row-id">${item.id || index + 1}</td>
-      <td class="hint-text">${item.bangla_pronunciation || item.word}</td>
+      <td class="hint-text">
+        <div class="pronunciation">${item.bangla_pronunciation || item.word || ''}</div>
+        ${item.bangla_meaning ? `<div class="bangla-meaning">(${item.bangla_meaning})</div>` : ''}
+      </td>
       <td>
         <input 
           type="text" 
@@ -51,7 +51,10 @@ function loadNewBatch() {
           placeholder="Type English spelling..."
           autocomplete="off"
         />
-        <div class="memory-hint hidden" id="hint-${index}">${item.memory_trick || ''}</div>
+        <!-- Memory Trick hidden until an incorrect answer is entered -->
+        <div class="memory-hint hidden" id="hint-${index}">
+          💡 <strong>Memory Trick:</strong> ${item.memory_trick || 'No trick available'}
+        </div>
       </td>
       <td>
         <span class="status-badge pending" id="status-${index}">Pending</span>
@@ -60,7 +63,7 @@ function loadNewBatch() {
     practiceRows.appendChild(tr);
   });
 
-  // Add event listeners to input fields
+  // Attach event listeners to input fields
   document.querySelectorAll('.word-input').forEach(input => {
     input.addEventListener('change', (e) => gradeRow(e.target));
     input.addEventListener('keyup', (e) => {
@@ -69,12 +72,12 @@ function loadNewBatch() {
   });
 }
 
-// 3. Live Grading System
+// Live Auto-Grading Logic
 function gradeRow(inputEl) {
   const index = inputEl.dataset.index;
   const userAnswer = inputEl.value.trim().toLowerCase();
   const currentWord = currentBatch[index];
-  const correctAnswer = (currentWord.word || currentWord.correct_answer || '').toLowerCase();
+  const correctAnswer = (currentWord.correct_answer || currentWord.word || '').trim().toLowerCase();
   
   const statusBadge = document.getElementById(`status-${index}`);
   const hintEl = document.getElementById(`hint-${index}`);
@@ -87,10 +90,11 @@ function gradeRow(inputEl) {
     statusBadge.textContent = 'Correct ✓';
     statusBadge.className = 'status-badge correct';
     inputEl.style.borderColor = '#22c55e';
+    if (hintEl) hintEl.classList.add('hidden');
   } else {
     currentWord.mistake_count += 1;
-    currentWord.priority_score += 10; // Elevate priority for wrong answers
-    statusBadge.textContent = `Wrong: ${correctAnswer}`;
+    currentWord.priority_score += 10; // Increase priority for incorrect answers
+    statusBadge.textContent = `Wrong: ${currentWord.correct_answer || currentWord.word}`;
     statusBadge.className = 'status-badge incorrect';
     inputEl.style.borderColor = '#ef4444';
     if (hintEl) hintEl.classList.remove('hidden');
@@ -99,7 +103,7 @@ function gradeRow(inputEl) {
   renderMasterLog();
 }
 
-// 4. Render Master Log View
+// Populate Master Log Drawer
 function renderMasterLog() {
   masterLogRows.innerHTML = '';
   wordsData.forEach(item => {
@@ -107,7 +111,7 @@ function renderMasterLog() {
     tr.innerHTML = `
       <td>${item.category || 'General'}</td>
       <td><strong>${item.bangla_pronunciation || '-'}</strong></td>
-      <td>${item.word || item.correct_answer}</td>
+      <td>${item.correct_answer || item.word}</td>
       <td>${item.memory_trick || '-'}</td>
       <td>${item.mistake_count}</td>
       <td>${item.total_tries}</td>
@@ -117,7 +121,7 @@ function renderMasterLog() {
   });
 }
 
-// Event Listeners for Batching & Modal
+// Event Listeners
 nextBatchBtn.addEventListener('click', loadNewBatch);
 openLogBtn.addEventListener('click', () => logModal.classList.remove('hidden'));
 closeLogBtn.addEventListener('click', () => logModal.classList.add('hidden'));

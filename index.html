@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IELTS Adaptive Spelling Practice</title>
+  <title>IELTS Adaptive Practice</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
@@ -12,7 +12,7 @@
   <header class="app-header">
     <div class="logo-area">
       <h1>IELTS Adaptive Practice</h1>
-      <span class="badge">Spaced Repetition</span>
+      <span class="badge">Spaced Repetition System</span>
     </div>
     <div class="header-actions">
       <button id="open-log-btn" class="btn btn-secondary">
@@ -24,8 +24,8 @@
   <main class="main-container">
     <section class="practice-card">
       <div class="card-header">
-        <h2>Batch Session (10 Words)</h2>
-        <p class="subtitle">Type the English spelling corresponding to each Bangla pronunciation hint.</p>
+        <h2>Adaptive Practice (10 Words Batch)</h2>
+        <p class="subtitle">Type the English spelling for each Bangla pronunciation and meaning hint.</p>
       </div>
 
       <div class="table-responsive">
@@ -35,18 +35,11 @@
               <th style="width: 80px;">ID</th>
               <th>Bangla Pronunciation (Hint)</th>
               <th>Type Your Answer Here</th>
-              <th style="width: 140px;">Grading Result</th>
+              <th style="width: 160px;">Grading Result</th>
             </tr>
           </thead>
           <tbody id="practice-rows">
-            <!-- 10 rows generated dynamically via app.js -->
-            <tr>
-              <td class="row-id">20</td>
-              <td class="hint-text">অ্যাডভান্টেজিয়াস</td>
-              <td><input type="text" class="input-field" placeholder="Type answer..."></td>
-              <td><span class="status-badge pending">Pending</span></td>
-            </tr>
-            <!-- Repeat for rows 2-10 -->
+            <!-- Rows dynamically loaded from app.js -->
           </tbody>
         </table>
       </div>
@@ -64,8 +57,8 @@
     <div class="modal-content">
       <div class="modal-header">
         <div>
-          <h2>Master Log & Analytics</h2>
-          <p class="subtitle">Full dataset with priority scores and mistake tracking.</p>
+          <h2>Master Log Dashboard</h2>
+          <p class="subtitle">Review total dataset, mistake frequency, and priority scores.</p>
         </div>
         <button id="close-log-btn" class="close-btn">&times;</button>
       </div>
@@ -80,11 +73,11 @@
               <th>Memory Trick / Breakdown</th>
               <th>Mistake Count</th>
               <th>Total Tries</th>
-              <th>Review Priority Score</th>
+              <th>Priority Score</th>
             </tr>
           </thead>
           <tbody id="master-log-rows">
-            <!-- Populated from words.json via JS -->
+            <!-- Populated dynamically via words.json -->
           </tbody>
         </table>
       </div>
