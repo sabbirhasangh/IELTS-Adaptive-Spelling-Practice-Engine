@@ -1,2893 +1,3710 @@
 [
   {
     "id": 1,
-    "category": "Health & Daily Life",
-    "bangla": "ডিজিজ",
     "word": "Disease",
-    "trick": "Dis-ease(Ease-A state of being relaxed)"
+    "bangla_pronunciation": "ডিজিজ",
+    "bangla_meaning": "রোগ",
+    "memory_trick": "Dis-ease(Ease-A state of being relaxed)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 2,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডেমোনস্ট্রেট",
     "word": "Demonstrate",
-    "trick": "Demonstrate"
+    "bangla_pronunciation": "ডেমোনস্ট্রেট",
+    "bangla_meaning": "প্রদর্শন করুন",
+    "memory_trick": "Demonstrate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 3,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সিস্টেন্স",
     "word": "Existence",
-    "trick": "Existence"
+    "bangla_pronunciation": "এক্সিস্টেন্স",
+    "bangla_meaning": "অস্তিত্ব",
+    "memory_trick": "Existence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 4,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইমিডিয়েট",
     "word": "Immediate",
-    "trick": "Immediate"
+    "bangla_pronunciation": "ইমিডিয়েট",
+    "bangla_meaning": "অবিলম্বে",
+    "memory_trick": "Immediate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 5,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রসপারিটি",
     "word": "Prosperity",
-    "trick": "Prosperity"
+    "bangla_pronunciation": "প্রসপারিটি",
+    "bangla_meaning": "সমৃদ্ধি",
+    "memory_trick": "Prosperity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 6,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "উইথড্রয়াল",
     "word": "Withdrawal",
-    "trick": "Withdrawal"
+    "bangla_pronunciation": "উইথড্রয়াল",
+    "bangla_meaning": "প্রত্যাহার",
+    "memory_trick": "Withdrawal",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 7,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এলিমিনেট",
     "word": "Eliminate",
-    "trick": "Eliminate"
+    "bangla_pronunciation": "এলিমিনেট",
+    "bangla_meaning": "নির্মূল করুন",
+    "memory_trick": "Eliminate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 8,
-    "category": "Environment & Nature",
-    "bangla": "ওয়াইল্ডারনেস",
     "word": "Wilderness",
-    "trick": "Wilderness"
+    "bangla_pronunciation": "ওয়াইল্ডারনেস",
+    "bangla_meaning": "বন্যতা",
+    "memory_trick": "Wilderness",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 9,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফান্ডামেন্টাল",
     "word": "Fundamental",
-    "trick": "Fundamental"
+    "bangla_pronunciation": "ফান্ডামেন্টাল",
+    "bangla_meaning": "মৌলিক",
+    "memory_trick": "Fundamental",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 10,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্যাটিস্ফ্যাকশন",
     "word": "Satisfaction",
-    "trick": "Satisfaction"
+    "bangla_pronunciation": "স্যাটিস্ফ্যাকশন",
+    "bangla_meaning": "সন্তুষ্টি",
+    "memory_trick": "Satisfaction",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 11,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "টলারেন্স",
     "word": "Tolerance",
-    "trick": "Tolerance"
+    "bangla_pronunciation": "টলারেন্স",
+    "bangla_meaning": "সহনশীলতা",
+    "memory_trick": "Tolerance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 12,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "জাজমেন্ট",
     "word": "Judgment",
-    "trick": "Judgment"
+    "bangla_pronunciation": "জাজমেন্ট",
+    "bangla_meaning": "রায়",
+    "memory_trick": "Judgment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 13,
-    "category": "Travel & Places",
-    "bangla": "আইটিন্যারারি",
     "word": "Itinerary",
-    "trick": "Itinerary"
+    "bangla_pronunciation": "আইটিন্যারারি",
+    "bangla_meaning": "ভ্রমণসূচী",
+    "memory_trick": "Itinerary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 14,
-    "category": "Health & Daily Life",
-    "bangla": "নিউট্রিশন",
     "word": "Nutrition",
-    "trick": "Nutrition"
+    "bangla_pronunciation": "নিউট্রিশন",
+    "bangla_meaning": "পুষ্টি",
+    "memory_trick": "Nutrition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 15,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভায়োলেশন",
     "word": "Violation",
-    "trick": "Violation"
+    "bangla_pronunciation": "ভায়োলেশন",
+    "bangla_meaning": "লঙ্ঘন",
+    "memory_trick": "Violation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 16,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পসিবিলিটি",
     "word": "Possibility",
-    "trick": "Possibility"
+    "bangla_pronunciation": "পসিবিলিটি",
+    "bangla_meaning": "সম্ভাবনা",
+    "memory_trick": "Possibility",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 17,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভ্যারিয়াবিলিটি",
     "word": "Variability",
-    "trick": "Variability"
+    "bangla_pronunciation": "ভ্যারিয়াবিলিটি",
+    "bangla_meaning": "পরিবর্তনশীলতা",
+    "memory_trick": "Variability",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 18,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাডভান্টেজিয়াস",
     "word": "Advantageous",
-    "trick": "Advantageous"
+    "bangla_pronunciation": "অ্যাডভান্টেজিয়াস",
+    "bangla_meaning": "সুবিধাজনক",
+    "memory_trick": "Advantageous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 19,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিদম",
     "word": "Rhythm",
-    "trick": "Rhythm"
+    "bangla_pronunciation": "রিদম",
+    "bangla_meaning": "ছন্দ",
+    "memory_trick": "Rhythm",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 20,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাবস্টিটিউট",
     "word": "Substitute",
-    "trick": "Substitute"
+    "bangla_pronunciation": "সাবস্টিটিউট",
+    "bangla_meaning": "বিকল্প",
+    "memory_trick": "Substitute",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 21,
-    "category": "Health & Daily Life",
-    "bangla": "লেজার",
     "word": "Leisure",
-    "trick": "Leisure"
+    "bangla_pronunciation": "লেজার",
+    "bangla_meaning": "অবসর",
+    "memory_trick": "Leisure",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 22,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনসেনটিভ",
     "word": "Incentive",
-    "trick": "Incentive"
+    "bangla_pronunciation": "ইনসেনটিভ",
+    "bangla_meaning": "প্রণোদনা",
+    "memory_trick": "Incentive",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 23,
-    "category": "Science & Tech",
-    "bangla": "ইলেকট্রিসিটি",
     "word": "Electricity",
-    "trick": "Electricity"
+    "bangla_pronunciation": "ইলেকট্রিসিটি",
+    "bangla_meaning": "বিদ্যুৎ",
+    "memory_trick": "Electricity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 24,
-    "category": "Society & Government",
-    "bangla": "সোসাইটি",
     "word": "Society",
-    "trick": "Society"
+    "bangla_pronunciation": "সোসাইটি",
+    "bangla_meaning": "সমাজ",
+    "memory_trick": "Society",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 25,
-    "category": "Society & Government",
-    "bangla": "বিজনেস",
     "word": "Business",
-    "trick": "Business"
+    "bangla_pronunciation": "বিজনেস",
+    "bangla_meaning": "ব্যবসা",
+    "memory_trick": "Business",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 26,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্টিমুলেশন",
     "word": "Stimulation",
-    "trick": "Stimulation"
+    "bangla_pronunciation": "স্টিমুলেশন",
+    "bangla_meaning": "উদ্দীপনা",
+    "memory_trick": "Stimulation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 27,
-    "category": "Academic & Education",
-    "bangla": "ডিগ্রি",
     "word": "Degree",
-    "trick": "Degree"
+    "bangla_pronunciation": "ডিগ্রি",
+    "bangla_meaning": "ডিগ্রি",
+    "memory_trick": "Degree",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 28,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনট্রোভার্সিয়াল",
     "word": "Controversial",
-    "trick": "Controversial"
+    "bangla_pronunciation": "কনট্রোভার্সিয়াল",
+    "bangla_meaning": "বিতর্কিত",
+    "memory_trick": "Controversial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 29,
-    "category": "Academic & Education",
-    "bangla": "অডিটোরিয়াম",
     "word": "Auditorium",
-    "trick": "Auditorium"
+    "bangla_pronunciation": "অডিটোরিয়াম",
+    "bangla_meaning": "অডিটোরিয়াম",
+    "memory_trick": "Auditorium",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 30,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কম্প্রিহেন্ড",
     "word": "Comprehend",
-    "trick": "Comprehend"
+    "bangla_pronunciation": "কম্প্রিহেন্ড",
+    "bangla_meaning": "বোঝা",
+    "memory_trick": "Comprehend",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 31,
-    "category": "Travel & Places",
-    "bangla": "হোটেল",
     "word": "Hotel",
-    "trick": "Hotel"
+    "bangla_pronunciation": "হোটেল",
+    "bangla_meaning": "হোটেল",
+    "memory_trick": "Hotel",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 32,
-    "category": "Travel & Places",
-    "bangla": "ভেহিকেল",
     "word": "Vehicle",
-    "trick": "Vehicle"
+    "bangla_pronunciation": "ভেহিকেল",
+    "bangla_meaning": "যানবাহন",
+    "memory_trick": "Vehicle",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 33,
-    "category": "Science & Tech",
-    "bangla": "ইলেকট্রনিক",
     "word": "Electronic",
-    "trick": "Electronic"
+    "bangla_pronunciation": "ইলেকট্রনিক",
+    "bangla_meaning": "ইলেকট্রনিক",
+    "memory_trick": "Electronic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 34,
-    "category": "Academic & Education",
-    "bangla": "থিসিস",
     "word": "Thesis",
-    "trick": "Thesis"
+    "bangla_pronunciation": "থিসিস",
+    "bangla_meaning": "থিসিস",
+    "memory_trick": "Thesis",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 35,
-    "category": "Environment & Nature",
-    "bangla": "ডিফরেস্টেশন",
     "word": "Deforestation",
-    "trick": "Deforestation"
+    "bangla_pronunciation": "ডিফরেস্টেশন",
+    "bangla_meaning": "বন উজাড়",
+    "memory_trick": "Deforestation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 36,
-    "category": "Academic & Education",
-    "bangla": "লেকচার",
     "word": "Lecture",
-    "trick": "Lecture"
+    "bangla_pronunciation": "লেকচার",
+    "bangla_meaning": "বক্তৃতা",
+    "memory_trick": "Lecture",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 37,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অপটিমাম",
     "word": "Optimum",
-    "trick": "Optimum"
+    "bangla_pronunciation": "অপটিমাম",
+    "bangla_meaning": "সর্বোত্তম",
+    "memory_trick": "Optimum",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 38,
-    "category": "Time & Calendar",
-    "bangla": "ওয়েডনেসডে",
     "word": "Wednesday",
-    "trick": "Wed-nes-day (Wed + nes + day)"
+    "bangla_pronunciation": "ওয়েডনেসডে",
+    "bangla_meaning": "বুধবার",
+    "memory_trick": "Wed-nes-day (Wed + nes + day)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 39,
-    "category": "Time & Calendar",
-    "bangla": "টিউসডে",
     "word": "Tuesday",
-    "trick": "Tues-day"
+    "bangla_pronunciation": "টিউসডে",
+    "bangla_meaning": "মঙ্গলবার",
+    "memory_trick": "Tues-day",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 40,
-    "category": "Time & Calendar",
-    "bangla": "ফেব্রুয়ারি",
     "word": "February",
-    "trick": "Feb-ru-ary (Notice 'ru')"
+    "bangla_pronunciation": "ফেব্রুয়ারি",
+    "bangla_meaning": "ফেব্রুয়ারি",
+    "memory_trick": "Feb-ru-ary (Notice 'ru')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 41,
-    "category": "Time & Calendar",
-    "bangla": "আগস্ট",
     "word": "August",
-    "trick": "Au-gust"
+    "bangla_pronunciation": "আগস্ট",
+    "bangla_meaning": "আগস্ট",
+    "memory_trick": "Au-gust",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 42,
-    "category": "Time & Calendar",
-    "bangla": "অটাম",
     "word": "Autumn",
-    "trick": "Au-tumn (Notice silent 'n')"
+    "bangla_pronunciation": "অটাম",
+    "bangla_meaning": "শরৎ",
+    "memory_trick": "Au-tumn (Notice silent 'n')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 43,
-    "category": "Time & Calendar",
-    "bangla": "ক্যালেন্ডার",
     "word": "Calendar",
-    "trick": "Cal-en-dar (Watch 'dar' at end)"
+    "bangla_pronunciation": "ক্যালেন্ডার",
+    "bangla_meaning": "ক্যালেন্ডার",
+    "memory_trick": "Cal-en-dar (Watch 'dar' at end)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 44,
-    "category": "Time & Calendar",
-    "bangla": "শিডিউল / সেডিউল",
     "word": "Schedule",
-    "trick": "Sche-dule (Sch sound)"
+    "bangla_pronunciation": "শিডিউল / সেডিউল",
+    "bangla_meaning": "সময়সূচী",
+    "memory_trick": "Sche-dule (Sch sound)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 45,
-    "category": "Time & Calendar",
-    "bangla": "মিলেনিয়াম",
     "word": "Millennium",
-    "trick": "Mil-len-ni-um (Double l, double n)"
+    "bangla_pronunciation": "মিলেনিয়াম",
+    "bangla_meaning": "সহস্রাব্দ",
+    "memory_trick": "Mil-len-ni-um (Double l, double n)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 46,
-    "category": "Time & Calendar",
-    "bangla": "সেঞ্চুরি",
     "word": "Century",
-    "trick": "Century"
+    "bangla_pronunciation": "সেঞ্চুরি",
+    "bangla_meaning": "শতাব্দী",
+    "memory_trick": "Century",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 47,
-    "category": "Academic & Education",
-    "bangla": "একাডেমিক",
     "word": "Academic",
-    "trick": "Ac-a-dem-ic"
+    "bangla_pronunciation": "একাডেমিক",
+    "bangla_meaning": "একাডেমিক",
+    "memory_trick": "Ac-a-dem-ic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 48,
-    "category": "Academic & Education",
-    "bangla": "অ্যাসাইনমেন্ট",
     "word": "Assignment",
-    "trick": "As-sign-ment (As + sign + ment)"
+    "bangla_pronunciation": "অ্যাসাইনমেন্ট",
+    "bangla_meaning": "অ্যাসাইনমেন্ট",
+    "memory_trick": "As-sign-ment (As + sign + ment)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 49,
-    "category": "Academic & Education",
-    "bangla": "সার্টিফিকেট",
     "word": "Certificate",
-    "trick": "Certificate"
+    "bangla_pronunciation": "সার্টিফিকেট",
+    "bangla_meaning": "সার্টিফিকেট",
+    "memory_trick": "Certificate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 50,
-    "category": "Academic & Education",
-    "bangla": "কারিকুলাম",
     "word": "Curriculum",
-    "trick": "Cur-ric-u-lum (Double r)"
+    "bangla_pronunciation": "কারিকুলাম",
+    "bangla_meaning": "পাঠ্যক্রম",
+    "memory_trick": "Cur-ric-u-lum (Double r)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 51,
-    "category": "Academic & Education",
-    "bangla": "ডিপ্লোমা",
     "word": "Diploma",
-    "trick": "Diploma"
+    "bangla_pronunciation": "ডিপ্লোমা",
+    "bangla_meaning": "ডিপ্লোমা",
+    "memory_trick": "Diploma",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 52,
-    "category": "Academic & Education",
-    "bangla": "ডিসারটেশন",
     "word": "Dissertation",
-    "trick": "Dis-ser-ta-tion (Double s)"
+    "bangla_pronunciation": "ডিসারটেশন",
+    "bangla_meaning": "গবেষণাপত্র",
+    "memory_trick": "Dis-ser-ta-tion (Double s)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 53,
-    "category": "Academic & Education",
-    "bangla": "এডুকেশন",
     "word": "Education",
-    "trick": "Education"
+    "bangla_pronunciation": "এডুকেশন",
+    "bangla_meaning": "শিক্ষা",
+    "memory_trick": "Education",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 54,
-    "category": "Academic & Education",
-    "bangla": "ফ্যাকাল্টি",
     "word": "Faculty",
-    "trick": "Faculty"
+    "bangla_pronunciation": "ফ্যাকাল্টি",
+    "bangla_meaning": "অনুষদ",
+    "memory_trick": "Faculty",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 55,
-    "category": "Academic & Education",
-    "bangla": "ল্যাবরেটরি",
     "word": "Laboratory",
-    "trick": "Laboratory"
+    "bangla_pronunciation": "ল্যাবরেটরি",
+    "bangla_meaning": "পরীক্ষাগার",
+    "memory_trick": "Laboratory",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 56,
-    "category": "Academic & Education",
-    "bangla": "লাইব্রেরি",
     "word": "Library",
-    "trick": "Library"
+    "bangla_pronunciation": "লাইব্রেরি",
+    "bangla_meaning": "লাইব্রেরি",
+    "memory_trick": "Library",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 57,
-    "category": "Academic & Education",
-    "bangla": "প্রফেসর",
     "word": "Professor",
-    "trick": "Pro-fes-sor (1 f, 2 s's)"
+    "bangla_pronunciation": "প্রফেসর",
+    "bangla_meaning": "অধ্যাপক",
+    "memory_trick": "Pro-fes-sor (1 f, 2 s's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 58,
-    "category": "Academic & Education",
-    "bangla": "কোয়ালিফিকেশন",
     "word": "Qualification",
-    "trick": "Qualification"
+    "bangla_pronunciation": "কোয়ালিফিকেশন",
+    "bangla_meaning": "যোগ্যতা",
+    "memory_trick": "Qualification",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 59,
-    "category": "Academic & Education",
-    "bangla": "রিসার্চ",
     "word": "Research",
-    "trick": "Research"
+    "bangla_pronunciation": "রিসার্চ",
+    "bangla_meaning": "গবেষণা",
+    "memory_trick": "Research",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 60,
-    "category": "Academic & Education",
-    "bangla": "স্কলারশিপ",
     "word": "Scholarship",
-    "trick": "Scholarship"
+    "bangla_pronunciation": "স্কলারশিপ",
+    "bangla_meaning": "বৃত্তি",
+    "memory_trick": "Scholarship",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 61,
-    "category": "Academic & Education",
-    "bangla": "সেমিস্টার",
     "word": "Semester",
-    "trick": "Semester"
+    "bangla_pronunciation": "সেমিস্টার",
+    "bangla_meaning": "সেমিস্টার",
+    "memory_trick": "Semester",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 62,
-    "category": "Academic & Education",
-    "bangla": "টিউটর",
     "word": "Tutor",
-    "trick": "Tutor"
+    "bangla_pronunciation": "টিউটর",
+    "bangla_meaning": "গৃহশিক্ষক",
+    "memory_trick": "Tutor",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 63,
-    "category": "Academic & Education",
-    "bangla": "ইউনিভার্সিটি",
     "word": "University",
-    "trick": "University"
+    "bangla_pronunciation": "ইউনিভার্সিটি",
+    "bangla_meaning": "বিশ্ববিদ্যালয়",
+    "memory_trick": "University",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 64,
-    "category": "Academic & Education",
-    "bangla": "ক্যাম্পাস",
     "word": "Campus",
-    "trick": "Campus"
+    "bangla_pronunciation": "ক্যাম্পাস",
+    "bangla_meaning": "ক্যাম্পাস",
+    "memory_trick": "Campus",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 65,
-    "category": "Academic & Education",
-    "bangla": "টিউশন",
     "word": "Tuition",
-    "trick": "Tuition"
+    "bangla_pronunciation": "টিউশন",
+    "bangla_meaning": "টিউশন ফি",
+    "memory_trick": "Tuition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 66,
-    "category": "Academic & Education",
-    "bangla": "প্লেজিয়ারিজম",
     "word": "Plagiarism",
-    "trick": "Plagiarism"
+    "bangla_pronunciation": "প্লেজিয়ারিজম",
+    "bangla_meaning": "চৌর্যবৃত্তি",
+    "memory_trick": "Plagiarism",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 67,
-    "category": "Academic & Education",
-    "bangla": "অ্যাসেসমেন্ট",
     "word": "Assessment",
-    "trick": "Assessment"
+    "bangla_pronunciation": "অ্যাসেসমেন্ট",
+    "bangla_meaning": "মূল্যায়ন",
+    "memory_trick": "Assessment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 68,
-    "category": "Academic & Education",
-    "bangla": "মেথডোলজি",
     "word": "Methodology",
-    "trick": "Methodology"
+    "bangla_pronunciation": "মেথডোলজি",
+    "bangla_meaning": "পদ্ধতি",
+    "memory_trick": "Methodology",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 69,
-    "category": "Academic & Education",
-    "bangla": "পেডাগোজি",
     "word": "Pedagogy",
-    "trick": "Pedagogy"
+    "bangla_pronunciation": "পেডাগোজি",
+    "bangla_meaning": "শিক্ষাবিদ্যা",
+    "memory_trick": "Pedagogy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 70,
-    "category": "Academic & Education",
-    "bangla": "লিটারেসি",
     "word": "Literacy",
-    "trick": "Literacy"
+    "bangla_pronunciation": "লিটারেসি",
+    "bangla_meaning": "সাক্ষরতা",
+    "memory_trick": "Literacy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 71,
-    "category": "Academic & Education",
-    "bangla": "ডিসিপ্লিন",
     "word": "Discipline",
-    "trick": "Discipline"
+    "bangla_pronunciation": "ডিসিপ্লিন",
+    "bangla_meaning": "শৃঙ্খলা",
+    "memory_trick": "Discipline",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 72,
-    "category": "Academic & Education",
-    "bangla": "নলেজ",
     "word": "Knowledge",
-    "trick": "Knowledge"
+    "bangla_pronunciation": "নলেজ",
+    "bangla_meaning": "জ্ঞান",
+    "memory_trick": "Knowledge",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 73,
-    "category": "Environment & Nature",
-    "bangla": "এনভায়রনমেন্ট",
     "word": "Environment",
-    "trick": "En-vi-ron-ment (Notice hidden 'ron')"
+    "bangla_pronunciation": "এনভায়রনমেন্ট",
+    "bangla_meaning": "পরিবেশ",
+    "memory_trick": "En-vi-ron-ment (Notice hidden 'ron')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 74,
-    "category": "Environment & Nature",
-    "bangla": "এগ্রিকালচার",
     "word": "Agriculture",
-    "trick": "Agriculture"
+    "bangla_pronunciation": "এগ্রিকালচার",
+    "bangla_meaning": "কৃষি",
+    "memory_trick": "Agriculture",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 75,
-    "category": "Environment & Nature",
-    "bangla": "অ্যাটমোস্ফিয়ার",
     "word": "Atmosphere",
-    "trick": "Atmosphere"
+    "bangla_pronunciation": "অ্যাটমোস্ফিয়ার",
+    "bangla_meaning": "বায়ুমণ্ডল",
+    "memory_trick": "Atmosphere",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 76,
-    "category": "Environment & Nature",
-    "bangla": "বায়োডাইভারসিটি",
     "word": "Biodiversity",
-    "trick": "Biodiversity"
+    "bangla_pronunciation": "বায়োডাইভারসিটি",
+    "bangla_meaning": "জীববৈচিত্র্য",
+    "memory_trick": "Biodiversity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 77,
-    "category": "Environment & Nature",
-    "bangla": "ক্লাইমেট",
     "word": "Climate",
-    "trick": "Climate"
+    "bangla_pronunciation": "ক্লাইমেট",
+    "bangla_meaning": "জলবায়ু",
+    "memory_trick": "Climate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 78,
-    "category": "Environment & Nature",
-    "bangla": "কনজারভেশন",
     "word": "Conservation",
-    "trick": "Conservation"
+    "bangla_pronunciation": "কনজারভেশন",
+    "bangla_meaning": "সংরক্ষণ",
+    "memory_trick": "Conservation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 79,
-    "category": "Environment & Nature",
-    "bangla": "ইকোসিস্টেম",
     "word": "Ecosystem",
-    "trick": "Ecosystem"
+    "bangla_pronunciation": "ইকোসিস্টেম",
+    "bangla_meaning": "বাস্তুতন্ত্র",
+    "memory_trick": "Ecosystem",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 80,
-    "category": "Environment & Nature",
-    "bangla": "জিওগ্রাফিক্যাল",
     "word": "Geographical",
-    "trick": "Geographical"
+    "bangla_pronunciation": "জিওগ্রাফিক্যাল",
+    "bangla_meaning": "ভৌগোলিক",
+    "memory_trick": "Geographical",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 81,
-    "category": "Environment & Nature",
-    "bangla": "পলিউশন",
     "word": "Pollution",
-    "trick": "Pollution"
+    "bangla_pronunciation": "পলিউশন",
+    "bangla_meaning": "দূষণ",
+    "memory_trick": "Pollution",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 82,
-    "category": "Environment & Nature",
-    "bangla": "রিসাইক্লিং",
     "word": "Recycling",
-    "trick": "Recycling"
+    "bangla_pronunciation": "রিসাইক্লিং",
+    "bangla_meaning": "পুনর্ব্যবহার",
+    "memory_trick": "Recycling",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 83,
-    "category": "Environment & Nature",
-    "bangla": "টেম্পারেচার",
     "word": "Temperature",
-    "trick": "Temperature"
+    "bangla_pronunciation": "টেম্পারেচার",
+    "bangla_meaning": "তাপমাত্রা",
+    "memory_trick": "Temperature",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 84,
-    "category": "Environment & Nature",
-    "bangla": "ভেজিটেশন",
     "word": "Vegetation",
-    "trick": "Vegetation"
+    "bangla_pronunciation": "ভেজিটেশন",
+    "bangla_meaning": "গাছপালা",
+    "memory_trick": "Vegetation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 85,
-    "category": "Environment & Nature",
-    "bangla": "ওয়েদার",
     "word": "Weather",
-    "trick": "Weather"
+    "bangla_pronunciation": "ওয়েদার",
+    "bangla_meaning": "আবহাওয়া",
+    "memory_trick": "Weather",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 86,
-    "category": "Environment & Nature",
-    "bangla": "ক্যাটাস্ট্রোফি",
     "word": "Catastrophe",
-    "trick": "Catastrophe"
+    "bangla_pronunciation": "ক্যাটাস্ট্রোফি",
+    "bangla_meaning": "বিপর্যয়",
+    "memory_trick": "Catastrophe",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 87,
-    "category": "Environment & Nature",
-    "bangla": "হারিকেন",
     "word": "Hurricane",
-    "trick": "Hurricane"
+    "bangla_pronunciation": "হারিকেন",
+    "bangla_meaning": "হারিকেন",
+    "memory_trick": "Hurricane",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 88,
-    "category": "Environment & Nature",
-    "bangla": "আর্থকোয়েক",
     "word": "Earthquake",
-    "trick": "Earthquake"
+    "bangla_pronunciation": "আর্থকোয়েক",
+    "bangla_meaning": "ভূমিকম্প",
+    "memory_trick": "Earthquake",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 89,
-    "category": "Environment & Nature",
-    "bangla": "কনটামিনেশন",
     "word": "Contamination",
-    "trick": "Contamination"
+    "bangla_pronunciation": "কনটামিনেশন",
+    "bangla_meaning": "দূষণ",
+    "memory_trick": "Contamination",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 90,
-    "category": "Environment & Nature",
-    "bangla": "ইরোশন",
     "word": "Erosion",
-    "trick": "Erosion"
+    "bangla_pronunciation": "ইরোশন",
+    "bangla_meaning": "ক্ষয়",
+    "memory_trick": "Erosion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 91,
-    "category": "Environment & Nature",
-    "bangla": "গ্লোবাল",
     "word": "Global",
-    "trick": "Global"
+    "bangla_pronunciation": "গ্লোবাল",
+    "bangla_meaning": "বিশ্বব্যাপী",
+    "memory_trick": "Global",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 92,
-    "category": "Environment & Nature",
-    "bangla": "গ্লেশিয়ার",
     "word": "Glacier",
-    "trick": "Glacier"
+    "bangla_pronunciation": "গ্লেশিয়ার",
+    "bangla_meaning": "হিমবাহ",
+    "memory_trick": "Glacier",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 93,
-    "category": "Environment & Nature",
-    "bangla": "প্রিজারভেশন",
     "word": "Preservation",
-    "trick": "Preservation"
+    "bangla_pronunciation": "প্রিজারভেশন",
+    "bangla_meaning": "সংরক্ষণ",
+    "memory_trick": "Preservation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 94,
-    "category": "Environment & Nature",
-    "bangla": "সাসটেইনেবিলিটি",
     "word": "Sustainability",
-    "trick": "Sustainability"
+    "bangla_pronunciation": "সাসটেইনেবিলিটি",
+    "bangla_meaning": "স্থায়িত্ব",
+    "memory_trick": "Sustainability",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 95,
-    "category": "Environment & Nature",
-    "bangla": "টক্সিক",
     "word": "Toxic",
-    "trick": "Toxic"
+    "bangla_pronunciation": "টক্সিক",
+    "bangla_meaning": "বিষাক্ত",
+    "memory_trick": "Toxic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 96,
-    "category": "Travel & Places",
-    "bangla": "অ্যাকোমোডেশন",
     "word": "Accommodation",
-    "trick": "Ac-com-mo-da-tion (2 c's, 2 m's)"
+    "bangla_pronunciation": "অ্যাকোমোডেশন",
+    "bangla_meaning": "আবাসন",
+    "memory_trick": "Ac-com-mo-da-tion (2 c's, 2 m's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 97,
-    "category": "Travel & Places",
-    "bangla": "অ্যাপার্টমেন্ট",
     "word": "Apartment",
-    "trick": "Apartment"
+    "bangla_pronunciation": "অ্যাপার্টমেন্ট",
+    "bangla_meaning": "অ্যাপার্টমেন্ট",
+    "memory_trick": "Apartment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 98,
-    "category": "Travel & Places",
-    "bangla": "ডেস্টিনেশন",
     "word": "Destination",
-    "trick": "Destination"
+    "bangla_pronunciation": "ডেস্টিনেশন",
+    "bangla_meaning": "গন্তব্য",
+    "memory_trick": "Destination",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 99,
-    "category": "Travel & Places",
-    "bangla": "এক্সকারশন",
     "word": "Excursion",
-    "trick": "Excursion"
+    "bangla_pronunciation": "এক্সকারশন",
+    "bangla_meaning": "ভ্রমণ",
+    "memory_trick": "Excursion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 100,
-    "category": "Travel & Places",
-    "bangla": "ফ্যাসিলিটি",
     "word": "Facility",
-    "trick": "Facility"
+    "bangla_pronunciation": "ফ্যাসিলিটি",
+    "bangla_meaning": "সুবিধা",
+    "memory_trick": "Facility",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 101,
-    "category": "Travel & Places",
-    "bangla": "লোকেশন",
     "word": "Location",
-    "trick": "Location"
+    "bangla_pronunciation": "লোকেশন",
+    "bangla_meaning": "অবস্থান",
+    "memory_trick": "Location",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 102,
-    "category": "Travel & Places",
-    "bangla": "প্যাসেঞ্জার",
     "word": "Passenger",
-    "trick": "Passenger"
+    "bangla_pronunciation": "প্যাসেঞ্জার",
+    "bangla_meaning": "যাত্রী",
+    "memory_trick": "Passenger",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 103,
-    "category": "Travel & Places",
-    "bangla": "পাসপোর্ট",
     "word": "Passport",
-    "trick": "Passport"
+    "bangla_pronunciation": "পাসপোর্ট",
+    "bangla_meaning": "পাসপোর্ট",
+    "memory_trick": "Passport",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 104,
-    "category": "Travel & Places",
-    "bangla": "রিজারভেশন",
     "word": "Reservation",
-    "trick": "Reservation"
+    "bangla_pronunciation": "রিজারভেশন",
+    "bangla_meaning": "সংরক্ষণ",
+    "memory_trick": "Reservation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 105,
-    "category": "Travel & Places",
-    "bangla": "রেস্টুরেন্ট",
     "word": "Restaurant",
-    "trick": "Res-tau-rant (Watch 'tau')"
+    "bangla_pronunciation": "রেস্টুরেন্ট",
+    "bangla_meaning": "রেস্তোরাঁ",
+    "memory_trick": "Res-tau-rant (Watch 'tau')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 106,
-    "category": "Travel & Places",
-    "bangla": "ট্যুরিজম",
     "word": "Tourism",
-    "trick": "Tourism"
+    "bangla_pronunciation": "ট্যুরিজম",
+    "bangla_meaning": "পর্যটন",
+    "memory_trick": "Tourism",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 107,
-    "category": "Travel & Places",
-    "bangla": "ট্রান্সপোর্টেশন",
     "word": "Transportation",
-    "trick": "Transportation"
+    "bangla_pronunciation": "ট্রান্সপোর্টেশন",
+    "bangla_meaning": "পরিবহন",
+    "memory_trick": "Transportation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 108,
-    "category": "Travel & Places",
-    "bangla": "লাগেজ",
     "word": "Luggage",
-    "trick": "Luggage"
+    "bangla_pronunciation": "লাগেজ",
+    "bangla_meaning": "লাগেজ",
+    "memory_trick": "Luggage",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 109,
-    "category": "Travel & Places",
-    "bangla": "ব্যাগেজ",
     "word": "Baggage",
-    "trick": "Baggage"
+    "bangla_pronunciation": "ব্যাগেজ",
+    "bangla_meaning": "মালপত্র",
+    "memory_trick": "Baggage",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 110,
-    "category": "Travel & Places",
-    "bangla": "সুভেনির",
     "word": "Souvenir",
-    "trick": "Souvenir"
+    "bangla_pronunciation": "সুভেনির",
+    "bangla_meaning": "স্মারকচিহ্ন",
+    "memory_trick": "Souvenir",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 111,
-    "category": "Travel & Places",
-    "bangla": "ডিপার্চার",
     "word": "Departure",
-    "trick": "Departure"
+    "bangla_pronunciation": "ডিপার্চার",
+    "bangla_meaning": "প্রস্থান",
+    "memory_trick": "Departure",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 112,
-    "category": "Travel & Places",
-    "bangla": "অ্যারাইভাল",
     "word": "Arrival",
-    "trick": "Arrival"
+    "bangla_pronunciation": "অ্যারাইভাল",
+    "bangla_meaning": "আগমন",
+    "memory_trick": "Arrival",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 113,
-    "category": "Travel & Places",
-    "bangla": "জার্নি",
     "word": "Journey",
-    "trick": "Journey"
+    "bangla_pronunciation": "জার্নি",
+    "bangla_meaning": "যাত্রা",
+    "memory_trick": "Journey",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 114,
-    "category": "Travel & Places",
-    "bangla": "টার্মিনাল",
     "word": "Terminal",
-    "trick": "Terminal"
+    "bangla_pronunciation": "টার্মিনাল",
+    "bangla_meaning": "টার্মিনাল",
+    "memory_trick": "Terminal",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 115,
-    "category": "Travel & Places",
-    "bangla": "এক্সপেডিশন",
     "word": "Expedition",
-    "trick": "Expedition"
+    "bangla_pronunciation": "এক্সপেডিশন",
+    "bangla_meaning": "অভিযান",
+    "memory_trick": "Expedition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 116,
-    "category": "Travel & Places",
-    "bangla": "আর্কিটেকচার",
     "word": "Architecture",
-    "trick": "Architecture"
+    "bangla_pronunciation": "আর্কিটেকচার",
+    "bangla_meaning": "স্থাপত্য",
+    "memory_trick": "Architecture",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 117,
-    "category": "Travel & Places",
-    "bangla": "সাইটস",
     "word": "Sights",
-    "trick": "Sights"
+    "bangla_pronunciation": "সাইটস",
+    "bangla_meaning": "দর্শনীয় স্থান",
+    "memory_trick": "Sights",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 118,
-    "category": "Society & Government",
-    "bangla": "গভর্নমেন্ট",
     "word": "Government",
-    "trick": "Gov-ern-ment (Notice hidden 'ern')"
+    "bangla_pronunciation": "গভর্নমেন্ট",
+    "bangla_meaning": "সরকার",
+    "memory_trick": "Gov-ern-ment (Notice hidden 'ern')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 119,
-    "category": "Society & Government",
-    "bangla": "অ্যাডমিনিস্ট্রেশন",
     "word": "Administration",
-    "trick": "Administration"
+    "bangla_pronunciation": "অ্যাডমিনিস্ট্রেশন",
+    "bangla_meaning": "প্রশাসন",
+    "memory_trick": "Administration",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 120,
-    "category": "Society & Government",
-    "bangla": "অথরিটি",
     "word": "Authority",
-    "trick": "Authority"
+    "bangla_pronunciation": "অথরিটি",
+    "bangla_meaning": "কর্তৃপক্ষ",
+    "memory_trick": "Authority",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 121,
-    "category": "Society & Government",
-    "bangla": "কমার্শিয়াল",
     "word": "Commercial",
-    "trick": "Commercial"
+    "bangla_pronunciation": "কমার্শিয়াল",
+    "bangla_meaning": "বাণিজ্যিক",
+    "memory_trick": "Commercial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 122,
-    "category": "Society & Government",
-    "bangla": "কমিউনিটি",
     "word": "Community",
-    "trick": "Community"
+    "bangla_pronunciation": "কমিউনিটি",
+    "bangla_meaning": "সম্প্রদায়",
+    "memory_trick": "Community",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 123,
-    "category": "Society & Government",
-    "bangla": "ইকোনমি",
     "word": "Economy",
-    "trick": "Economy"
+    "bangla_pronunciation": "ইকোনমি",
+    "bangla_meaning": "অর্থনীতি",
+    "memory_trick": "Economy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 124,
-    "category": "Society & Government",
-    "bangla": "এমপ্লয়মেন্ট",
     "word": "Employment",
-    "trick": "Employment"
+    "bangla_pronunciation": "এমপ্লয়মেন্ট",
+    "bangla_meaning": "কর্মসংস্থান",
+    "memory_trick": "Employment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 125,
-    "category": "Society & Government",
-    "bangla": "ফাইন্যান্সিয়াল",
     "word": "Financial",
-    "trick": "Financial"
+    "bangla_pronunciation": "ফাইন্যান্সিয়াল",
+    "bangla_meaning": "আর্থিক",
+    "memory_trick": "Financial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 126,
-    "category": "Society & Government",
-    "bangla": "ইন্ডাস্ট্রি",
     "word": "Industry",
-    "trick": "Industry"
+    "bangla_pronunciation": "ইন্ডাস্ট্রি",
+    "bangla_meaning": "শিল্প",
+    "memory_trick": "Industry",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 127,
-    "category": "Society & Government",
-    "bangla": "ম্যানেজমেন্ট",
     "word": "Management",
-    "trick": "Management"
+    "bangla_pronunciation": "ম্যানেজমেন্ট",
+    "bangla_meaning": "ব্যবস্থাপনা",
+    "memory_trick": "Management",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 128,
-    "category": "Society & Government",
-    "bangla": "অর্গানাইজেশন",
     "word": "Organisation",
-    "trick": "Organisation"
+    "bangla_pronunciation": "অর্গানাইজেশন",
+    "bangla_meaning": "সংগঠন",
+    "memory_trick": "Organisation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 129,
-    "category": "Society & Government",
-    "bangla": "পার্লামেন্ট",
     "word": "Parliament",
-    "trick": "Parliament"
+    "bangla_pronunciation": "পার্লামেন্ট",
+    "bangla_meaning": "সংসদ",
+    "memory_trick": "Parliament",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 130,
-    "category": "Society & Government",
-    "bangla": "পলিসি",
     "word": "Policy",
-    "trick": "Policy"
+    "bangla_pronunciation": "পলিসি",
+    "bangla_meaning": "নীতি",
+    "memory_trick": "Policy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 131,
-    "category": "Society & Government",
-    "bangla": "ব্যুরোক্রেসি",
     "word": "Bureaucracy",
-    "trick": "Bureaucracy"
+    "bangla_pronunciation": "ব্যুরোক্রেসি",
+    "bangla_meaning": "আমলাতন্ত্র",
+    "memory_trick": "Bureaucracy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 132,
-    "category": "Society & Government",
-    "bangla": "ডেমোক্রেসি",
     "word": "Democracy",
-    "trick": "Democracy"
+    "bangla_pronunciation": "ডেমোক্রেসি",
+    "bangla_meaning": "গণতন্ত্র",
+    "memory_trick": "Democracy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 133,
-    "category": "Society & Government",
-    "bangla": "লেজিসলেশন",
     "word": "Legislation",
-    "trick": "Legislation"
+    "bangla_pronunciation": "লেজিসলেশন",
+    "bangla_meaning": "আইন প্রণয়ন",
+    "memory_trick": "Legislation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 134,
-    "category": "Society & Government",
-    "bangla": "ট্যাক্সেশন",
     "word": "Taxation",
-    "trick": "Taxation"
+    "bangla_pronunciation": "ট্যাক্সেশন",
+    "bangla_meaning": "কর আরোপ",
+    "memory_trick": "Taxation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 135,
-    "category": "Society & Government",
-    "bangla": "করপোরেশন",
     "word": "Corporation",
-    "trick": "Corporation"
+    "bangla_pronunciation": "করপোরেশন",
+    "bangla_meaning": "কর্পোরেশন",
+    "memory_trick": "Corporation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 136,
-    "category": "Society & Government",
-    "bangla": "ইনফ্লেশন",
     "word": "Inflation",
-    "trick": "Inflation"
+    "bangla_pronunciation": "ইনফ্লেশন",
+    "bangla_meaning": "মুদ্রাস্ফীতি",
+    "memory_trick": "Inflation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 137,
-    "category": "Society & Government",
-    "bangla": "ইনভেস্টমেন্ট",
     "word": "Investment",
-    "trick": "Investment"
+    "bangla_pronunciation": "ইনভেস্টমেন্ট",
+    "bangla_meaning": "বিনিয়োগ",
+    "memory_trick": "Investment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 138,
-    "category": "Society & Government",
-    "bangla": "পপুলেশন",
     "word": "Population",
-    "trick": "Population"
+    "bangla_pronunciation": "পপুলেশন",
+    "bangla_meaning": "জনসংখ্যা",
+    "memory_trick": "Population",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 139,
-    "category": "Society & Government",
-    "bangla": "ওয়েলফেয়ার",
     "word": "Welfare",
-    "trick": "Welfare"
+    "bangla_pronunciation": "ওয়েলফেয়ার",
+    "bangla_meaning": "কল্যাণ",
+    "memory_trick": "Welfare",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 140,
-    "category": "Society & Government",
-    "bangla": "ইনফ্রাস্ট্রাকচার",
     "word": "Infrastructure",
-    "trick": "Infrastructure"
+    "bangla_pronunciation": "ইনফ্রাস্ট্রাকচার",
+    "bangla_meaning": "অবকাঠামো",
+    "memory_trick": "Infrastructure",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 141,
-    "category": "Health & Daily Life",
-    "bangla": "অ্যাক্টিভিটি",
     "word": "Activity",
-    "trick": "Activity"
+    "bangla_pronunciation": "অ্যাক্টিভিটি",
+    "bangla_meaning": "কার্যকলাপ",
+    "memory_trick": "Activity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 142,
-    "category": "Health & Daily Life",
-    "bangla": "এন্টারটেইনমেন্ট",
     "word": "Entertainment",
-    "trick": "Entertainment"
+    "bangla_pronunciation": "এন্টারটেইনমেন্ট",
+    "bangla_meaning": "বিনোদন",
+    "memory_trick": "Entertainment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 143,
-    "category": "Health & Daily Life",
-    "bangla": "এক্সারসাইজ",
     "word": "Exercise",
-    "trick": "Exercise"
+    "bangla_pronunciation": "এক্সারসাইজ",
+    "bangla_meaning": "ব্যায়াম",
+    "memory_trick": "Exercise",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 144,
-    "category": "Health & Daily Life",
-    "bangla": "হাসপাতাল / হসপিটাল",
     "word": "Hospital",
-    "trick": "Hospital"
+    "bangla_pronunciation": "হাসপাতাল / হসপিটাল",
+    "bangla_meaning": "হাসপাতাল",
+    "memory_trick": "Hospital",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 145,
-    "category": "Health & Daily Life",
-    "bangla": "লাইফস্টাইল",
     "word": "Lifestyle",
-    "trick": "Lifestyle"
+    "bangla_pronunciation": "লাইফস্টাইল",
+    "bangla_meaning": "জীবনধারা",
+    "memory_trick": "Lifestyle",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 146,
-    "category": "Health & Daily Life",
-    "bangla": "মেডিসিন",
     "word": "Medicine",
-    "trick": "Medicine"
+    "bangla_pronunciation": "মেডিসিন",
+    "bangla_meaning": "ওষুধ",
+    "memory_trick": "Medicine",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 147,
-    "category": "Health & Daily Life",
-    "bangla": "অকুপেশন",
     "word": "Occupation",
-    "trick": "Occupation"
+    "bangla_pronunciation": "অকুপেশন",
+    "bangla_meaning": "পেশা",
+    "memory_trick": "Occupation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 148,
-    "category": "Health & Daily Life",
-    "bangla": "ভেজিটেবল",
     "word": "Vegetable",
-    "trick": "Vegetable"
+    "bangla_pronunciation": "ভেজিটেবল",
+    "bangla_meaning": "সবজি",
+    "memory_trick": "Vegetable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 149,
-    "category": "Health & Daily Life",
-    "bangla": "সিম্পটম",
     "word": "Symptom",
-    "trick": "Symptom"
+    "bangla_pronunciation": "সিম্পটম",
+    "bangla_meaning": "লক্ষণ",
+    "memory_trick": "Symptom",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 150,
-    "category": "Health & Daily Life",
-    "bangla": "প্রেসক্রিপশন",
     "word": "Prescription",
-    "trick": "Prescription"
+    "bangla_pronunciation": "প্রেসক্রিপশন",
+    "bangla_meaning": "প্রেসক্রিপশন",
+    "memory_trick": "Prescription",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 151,
-    "category": "Health & Daily Life",
-    "bangla": "ফিজিশিয়ান",
     "word": "Physician",
-    "trick": "Physician"
+    "bangla_pronunciation": "ফিজিশিয়ান",
+    "bangla_meaning": "চিকিৎসক",
+    "memory_trick": "Physician",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 152,
-    "category": "Health & Daily Life",
-    "bangla": "সাইকোলজি",
     "word": "Psychology",
-    "trick": "Psychology"
+    "bangla_pronunciation": "সাইকোলজি",
+    "bangla_meaning": "মনোবিজ্ঞান",
+    "memory_trick": "Psychology",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 153,
-    "category": "Health & Daily Life",
-    "bangla": "ট্রিটমেন্ট",
     "word": "Treatment",
-    "trick": "Treatment"
+    "bangla_pronunciation": "ট্রিটমেন্ট",
+    "bangla_meaning": "চিকিৎসা",
+    "memory_trick": "Treatment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 154,
-    "category": "Health & Daily Life",
-    "bangla": "হাইজিন",
     "word": "Hygiene",
-    "trick": "Hygiene"
+    "bangla_pronunciation": "হাইজিন",
+    "bangla_meaning": "স্বাস্থ্যবিধি",
+    "memory_trick": "Hygiene",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 155,
-    "category": "Health & Daily Life",
-    "bangla": "ক্যালোরি",
     "word": "Calorie",
-    "trick": "Calorie"
+    "bangla_pronunciation": "ক্যালোরি",
+    "bangla_meaning": "ক্যালোরি",
+    "memory_trick": "Calorie",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 156,
-    "category": "Health & Daily Life",
-    "bangla": "পেশেন্ট",
     "word": "Patient",
-    "trick": "Patient"
+    "bangla_pronunciation": "পেশেন্ট",
+    "bangla_meaning": "রোগী",
+    "memory_trick": "Patient",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 157,
-    "category": "Health & Daily Life",
-    "bangla": "ইমারজেন্সি",
     "word": "Emergency",
-    "trick": "Emergency"
+    "bangla_pronunciation": "ইমারজেন্সি",
+    "bangla_meaning": "জরুরি অবস্থা",
+    "memory_trick": "Emergency",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 158,
-    "category": "Science & Tech",
-    "bangla": "টেকনোলজি",
     "word": "Technology",
-    "trick": "Technology"
+    "bangla_pronunciation": "টেকনোলজি",
+    "bangla_meaning": "প্রযুক্তি",
+    "memory_trick": "Technology",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 159,
-    "category": "Science & Tech",
-    "bangla": "কম্পিউটার",
     "word": "Computer",
-    "trick": "Computer"
+    "bangla_pronunciation": "কম্পিউটার",
+    "bangla_meaning": "কম্পিউটার",
+    "memory_trick": "Computer",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 160,
-    "category": "Science & Tech",
-    "bangla": "সফটওয়্যার",
     "word": "Software",
-    "trick": "Software"
+    "bangla_pronunciation": "সফটওয়্যার",
+    "bangla_meaning": "সফটওয়্যার",
+    "memory_trick": "Software",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 161,
-    "category": "Science & Tech",
-    "bangla": "হার্ডওয়্যার",
     "word": "Hardware",
-    "trick": "Hardware"
+    "bangla_pronunciation": "হার্ডওয়্যার",
+    "bangla_meaning": "হার্ডওয়্যার",
+    "memory_trick": "Hardware",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 162,
-    "category": "Science & Tech",
-    "bangla": "ডেটাবেস",
     "word": "Database",
-    "trick": "Database"
+    "bangla_pronunciation": "ডেটাবেস",
+    "bangla_meaning": "ডাটাবেস",
+    "memory_trick": "Database",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 163,
-    "category": "Science & Tech",
-    "bangla": "অ্যালগোরিদম",
     "word": "Algorithm",
-    "trick": "Algorithm"
+    "bangla_pronunciation": "অ্যালগোরিদম",
+    "bangla_meaning": "অ্যালগরিদম",
+    "memory_trick": "Algorithm",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 164,
-    "category": "Science & Tech",
-    "bangla": "আর্টিফিশিয়াল",
     "word": "Artificial",
-    "trick": "Artificial"
+    "bangla_pronunciation": "আর্টিফিশিয়াল",
+    "bangla_meaning": "কৃত্রিম",
+    "memory_trick": "Artificial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 165,
-    "category": "Science & Tech",
-    "bangla": "ইন্টেলিজেন্স",
     "word": "Intelligence",
-    "trick": "Intelligence"
+    "bangla_pronunciation": "ইন্টেলিজেন্স",
+    "bangla_meaning": "বুদ্ধিমত্তা",
+    "memory_trick": "Intelligence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 166,
-    "category": "Science & Tech",
-    "bangla": "ইনোভেশন",
     "word": "Innovation",
-    "trick": "Innovation"
+    "bangla_pronunciation": "ইনোভেশন",
+    "bangla_meaning": "উদ্ভাবন",
+    "memory_trick": "Innovation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 167,
-    "category": "Science & Tech",
-    "bangla": "এক্সপেরিমেন্ট",
     "word": "Experiment",
-    "trick": "Experiment"
+    "bangla_pronunciation": "এক্সপেরিমেন্ট",
+    "bangla_meaning": "পরীক্ষা",
+    "memory_trick": "Experiment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 168,
-    "category": "Science & Tech",
-    "bangla": "ল্যাবরেটরি",
-    "word": "Laboratory",
-    "trick": "Laboratory"
+    "word": "Hypothesis",
+    "bangla_pronunciation": "হাইপোথিসিস",
+    "bangla_meaning": "অনুমান",
+    "memory_trick": "Hypothesis",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 169,
-    "category": "Science & Tech",
-    "bangla": "হাইপোথিসিস",
-    "word": "Hypothesis",
-    "trick": "Hypothesis"
+    "word": "Digital",
+    "bangla_pronunciation": "ডিজিটাল",
+    "bangla_meaning": "ডিজিটাল",
+    "memory_trick": "Digital",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 170,
-    "category": "Science & Tech",
-    "bangla": "ডিজিটাল",
-    "word": "Digital",
-    "trick": "Digital"
+    "word": "Automated",
+    "bangla_pronunciation": "অটোমেটেড",
+    "bangla_meaning": "স্বয়ংক্রিয়",
+    "memory_trick": "Automated",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 171,
-    "category": "Science & Tech",
-    "bangla": "অটোমেটেড",
-    "word": "Automated",
-    "trick": "Automated"
+    "word": "Telecommunication",
+    "bangla_pronunciation": "টেলিকমিউনিকেশন",
+    "bangla_meaning": "টেলিযোগাযোগ",
+    "memory_trick": "Telecommunication",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 172,
-    "category": "Science & Tech",
-    "bangla": "টেলিকমিউনিকেশন",
-    "word": "Telecommunication",
-    "trick": "Telecommunication"
+    "word": "Engineering",
+    "bangla_pronunciation": "ইঞ্জিনিয়ারিং",
+    "bangla_meaning": "প্রকৌশল",
+    "memory_trick": "Engineering",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 173,
-    "category": "Science & Tech",
-    "bangla": "ইঞ্জিনিয়ারিং",
-    "word": "Engineering",
-    "trick": "Engineering"
+    "word": "Mechanics",
+    "bangla_pronunciation": "মেকানিক্স",
+    "bangla_meaning": "মেকানিক্স",
+    "memory_trick": "Mechanics",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 174,
-    "category": "Science & Tech",
-    "bangla": "মেকানিক্স",
-    "word": "Mechanics",
-    "trick": "Mechanics"
+    "word": "Scientific",
+    "bangla_pronunciation": "সাইন্টিফিক",
+    "bangla_meaning": "বৈজ্ঞানিক",
+    "memory_trick": "Scientific",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 175,
-    "category": "Science & Tech",
-    "bangla": "সাইন্টিফিক",
-    "word": "Scientific",
-    "trick": "Scientific"
+    "word": "Achieve",
+    "bangla_pronunciation": "অ্যাচিভ",
+    "bangla_meaning": "অর্জন করুন",
+    "memory_trick": "Achieve",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 176,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাচিভ",
-    "word": "Achieve",
-    "trick": "Achieve"
+    "word": "Analyze",
+    "bangla_pronunciation": "অ্যানালাইজ",
+    "bangla_meaning": "বিশ্লেষণ করুন",
+    "memory_trick": "Analyze",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 177,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যানালাইজ",
-    "word": "Analyze",
-    "trick": "Analyze"
+    "word": "Apparent",
+    "bangla_pronunciation": "অ্যাপ্যারেন্ট",
+    "bangla_meaning": "স্পষ্ট",
+    "memory_trick": "Apparent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 178,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাপ্যারেন্ট",
-    "word": "Apparent",
-    "trick": "Apparent"
+    "word": "Argument",
+    "bangla_pronunciation": "আর্গুমেন্ট",
+    "bangla_meaning": "যুক্তি",
+    "memory_trick": "Argument",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 179,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আর্গুমেন্ট",
-    "word": "Argument",
-    "trick": "Argument"
+    "word": "Beautiful",
+    "bangla_pronunciation": "বিউটিফুল",
+    "bangla_meaning": "সুন্দর",
+    "memory_trick": "Beautiful",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 180,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "বিউটিফুল",
-    "word": "Beautiful",
-    "trick": "Beautiful"
+    "word": "Beginning",
+    "bangla_pronunciation": "বিগিনিং",
+    "bangla_meaning": "শুরু",
+    "memory_trick": "Beginning",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 181,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "বিগিনিং",
-    "word": "Beginning",
-    "trick": "Beginning"
+    "word": "Believe",
+    "bangla_pronunciation": "বিলিভ",
+    "bangla_meaning": "বিশ্বাস করুন",
+    "memory_trick": "Be-lieve (i before e)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 182,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "বিলিভ",
-    "word": "Believe",
-    "trick": "Be-lieve (i before e)"
+    "word": "Category",
+    "bangla_pronunciation": "ক্যাটাগরি",
+    "bangla_meaning": "বিভাগ",
+    "memory_trick": "Category",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 183,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্যাটাগরি",
-    "word": "Category",
-    "trick": "Category"
+    "word": "Committee",
+    "bangla_pronunciation": "কমিটি",
+    "bangla_meaning": "কমিটি",
+    "memory_trick": "Com-mit-tee (2 m's, 2 t's, 2 e's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 184,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কমিটি",
-    "word": "Committee",
-    "trick": "Com-mit-tee (2 m's, 2 t's, 2 e's)"
+    "word": "Definite",
+    "bangla_pronunciation": "ডেফিনিট",
+    "bangla_meaning": "সুনির্দিষ্ট",
+    "memory_trick": "De-fi-nite (Watch 'i' not 'a')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 185,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডেফিনিট",
-    "word": "Definite",
-    "trick": "De-fi-nite (Watch 'i' not 'a')"
+    "word": "Development",
+    "bangla_pronunciation": "ডেভেলপমেন্ট",
+    "bangla_meaning": "উন্নয়ন",
+    "memory_trick": "Development",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 186,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডেভেলপমেন্ট",
-    "word": "Development",
-    "trick": "Development"
+    "word": "Difference",
+    "bangla_pronunciation": "ডিফারেন্স",
+    "bangla_meaning": "পার্থক্য",
+    "memory_trick": "Difference",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 187,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিফারেন্স",
-    "word": "Difference",
-    "trick": "Difference"
+    "word": "Embarrass",
+    "bangla_pronunciation": "এম্ব্যারাস",
+    "bangla_meaning": "বিব্রত",
+    "memory_trick": "Em-bar-rass (2 r's, 2 s's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 188,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এম্ব্যারাস",
-    "word": "Embarrass",
-    "trick": "Em-bar-rass (2 r's, 2 s's)"
+    "word": "Foreign",
+    "bangla_pronunciation": "ফরেন",
+    "bangla_meaning": "বিদেশী",
+    "memory_trick": "Foreign",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 189,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফরেন",
-    "word": "Foreign",
-    "trick": "Foreign"
+    "word": "Guarantee",
+    "bangla_pronunciation": "গ্যারান্টি",
+    "bangla_meaning": "গ্যারান্টি",
+    "memory_trick": "Guar-an-tee (Watch 'ua')",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 190,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "গ্যারান্টি",
-    "word": "Guarantee",
-    "trick": "Guar-an-tee (Watch 'ua')"
+    "word": "Independent",
+    "bangla_pronunciation": "ইনডিপেন্ডেন্ট",
+    "bangla_meaning": "স্বাধীন",
+    "memory_trick": "Independent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 191,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনডিপেন্ডেন্ট",
-    "word": "Independent",
-    "trick": "Independent"
+    "word": "Maintenance",
+    "bangla_pronunciation": "মেইনটেন্যান্স",
+    "bangla_meaning": "রক্ষণাবেক্ষণ",
+    "memory_trick": "Maintenance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 192,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "মেইনটেন্যান্স",
-    "word": "Maintenance",
-    "trick": "Maintenance"
+    "word": "Necessary",
+    "bangla_pronunciation": "নেসেসারি",
+    "bangla_meaning": "প্রয়োজনীয়",
+    "memory_trick": "Ne-ces-sa-ry (1 c, 2 s's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 193,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "নেসেসারি",
-    "word": "Necessary",
-    "trick": "Ne-ces-sa-ry (1 c, 2 s's)"
+    "word": "Occasion",
+    "bangla_pronunciation": "ওকেশন",
+    "bangla_meaning": "উপলক্ষ",
+    "memory_trick": "Occasion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 194,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ওকেশন",
-    "word": "Occasion",
-    "trick": "Occasion"
+    "word": "Opportunity",
+    "bangla_pronunciation": "অপরচুনিটি",
+    "bangla_meaning": "সুযোগ",
+    "memory_trick": "Op-por-tu-ni-ty (2 p's)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 195,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অপরচুনিটি",
-    "word": "Opportunity",
-    "trick": "Op-por-tu-ni-ty (2 p's)"
+    "word": "Privilege",
+    "bangla_pronunciation": "প্রিভিলেজ",
+    "bangla_meaning": "বিশেষাধিকার",
+    "memory_trick": "Privilege",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 196,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রিভিলেজ",
-    "word": "Privilege",
-    "trick": "Privilege"
+    "word": "Receive",
+    "bangla_pronunciation": "রিসিভ",
+    "bangla_meaning": "গ্রহণ করুন",
+    "memory_trick": "Re-ceive (e before i after c)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 197,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিসিভ",
-    "word": "Receive",
-    "trick": "Re-ceive (e before i after c)"
+    "word": "Recommend",
+    "bangla_pronunciation": "রেকমান্ড",
+    "bangla_meaning": "সুপারিশ করুন",
+    "memory_trick": "Recommend",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 198,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেকমান্ড",
-    "word": "Recommend",
-    "trick": "Recommend"
+    "word": "Separate",
+    "bangla_pronunciation": "সেপারেট",
+    "bangla_meaning": "পৃথক",
+    "memory_trick": "Sep-A-rate (a rat in separate)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 199,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সেপারেট",
-    "word": "Separate",
-    "trick": "Sep-A-rate (a rat in separate)"
+    "word": "Successful",
+    "bangla_pronunciation": "সাকসেসফুল",
+    "bangla_meaning": "সফল",
+    "memory_trick": "Suc-cess-ful (2 c's, 2 s's, 1 l)",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 200,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাকসেসফুল",
-    "word": "Successful",
-    "trick": "Suc-cess-ful (2 c's, 2 s's, 1 l)"
+    "word": "Tomorrow",
+    "bangla_pronunciation": "টুমরো",
+    "bangla_meaning": "আগামীকাল",
+    "memory_trick": "Tomorrow",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 201,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "টুমরো",
-    "word": "Tomorrow",
-    "trick": "Tomorrow"
+    "word": "Unfortunately",
+    "bangla_pronunciation": "আনফরচুনেটলি",
+    "bangla_meaning": "দুর্ভাগ্যবশত",
+    "memory_trick": "Unfortunately",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 202,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আনফরচুনেটলি",
-    "word": "Unfortunately",
-    "trick": "Unfortunately"
+    "word": "Absence",
+    "bangla_pronunciation": "অ্যাবসেন্স",
+    "bangla_meaning": "অনুপস্থিতি",
+    "memory_trick": "Absence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 203,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাবসেন্স",
-    "word": "Absence",
-    "trick": "Absence"
+    "word": "Abundant",
+    "bangla_pronunciation": "অ্যাবান্ড্যান্ট",
+    "bangla_meaning": "প্রচুর",
+    "memory_trick": "Abundant",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 204,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাবান্ড্যান্ট",
-    "word": "Abundant",
-    "trick": "Abundant"
+    "word": "Acceptable",
+    "bangla_pronunciation": "অ্যাকসেপ্টেবল",
+    "bangla_meaning": "গ্রহণযোগ্য",
+    "memory_trick": "Acceptable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 205,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাকসেপ্টেবল",
-    "word": "Acceptable",
-    "trick": "Acceptable"
+    "word": "Accidentally",
+    "bangla_pronunciation": "অ্যাকসিডেন্টালি",
+    "bangla_meaning": "দুর্ঘটনাক্রমে",
+    "memory_trick": "Accidentally",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 206,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাকসিডেন্টালি",
-    "word": "Accidentally",
-    "trick": "Accidentally"
+    "word": "Acquire",
+    "bangla_pronunciation": "অ্যাকোয়ার",
+    "bangla_meaning": "অর্জন করুন",
+    "memory_trick": "Acquire",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 207,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাকোয়ার",
-    "word": "Acquire",
-    "trick": "Acquire"
+    "word": "Adaptation",
+    "bangla_pronunciation": "অ্যাডাপ্টেশন",
+    "bangla_meaning": "অভিযোজন",
+    "memory_trick": "Adaptation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 208,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাডাপ্টেশন",
-    "word": "Adaptation",
-    "trick": "Adaptation"
+    "word": "Adequate",
+    "bangla_pronunciation": "অ্যাডিকেওয়েট",
+    "bangla_meaning": "পর্যাপ্ত",
+    "memory_trick": "Adequate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 209,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাডিকেওয়েট",
-    "word": "Adequate",
-    "trick": "Adequate"
+    "word": "Adjacent",
+    "bangla_pronunciation": "অ্যাডজাসент",
+    "bangla_meaning": "সংলগ্ন",
+    "memory_trick": "Adjacent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 210,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাডজাসент",
-    "word": "Adjacent",
-    "trick": "Adjacent"
+    "word": "Aggressive",
+    "bangla_pronunciation": "অ্যাগ্রেসিভ",
+    "bangla_meaning": "আক্রমণাত্মক",
+    "memory_trick": "Aggressive",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 211,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাগ্রেসিভ",
-    "word": "Aggressive",
-    "trick": "Aggressive"
+    "word": "Alternative",
+    "bangla_pronunciation": "অল্টারনেটিভ",
+    "bangla_meaning": "বিকল্প",
+    "memory_trick": "Alternative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 212,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অল্টারনেটিভ",
-    "word": "Alternative",
-    "trick": "Alternative"
+    "word": "Ambiguous",
+    "bangla_pronunciation": "অ্যাম্বিগুয়াস",
+    "bangla_meaning": "অস্পষ্ট",
+    "memory_trick": "Ambiguous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 213,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাম্বিগুয়াস",
-    "word": "Ambiguous",
-    "trick": "Ambiguous"
+    "word": "Analysis",
+    "bangla_pronunciation": "অ্যানালাইসিস",
+    "bangla_meaning": "বিশ্লেষণ",
+    "memory_trick": "Analysis",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 214,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যানালাইসিস",
-    "word": "Analysis",
-    "trick": "Analysis"
+    "word": "Appreciate",
+    "bangla_pronunciation": "অ্যাপ্রিশিয়েট",
+    "bangla_meaning": "প্রশংসা করুন",
+    "memory_trick": "Appreciate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 215,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাপ্রিশিয়েট",
-    "word": "Appreciate",
-    "trick": "Appreciate"
+    "word": "Appropriate",
+    "bangla_pronunciation": "অ্যাপ্রোপ্রিয়েট",
+    "bangla_meaning": "উপযুক্ত",
+    "memory_trick": "Appropriate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 216,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাপ্রোপ্রিয়েট",
-    "word": "Appropriate",
-    "trick": "Appropriate"
+    "word": "Approximate",
+    "bangla_pronunciation": "অ্যাপ্রোক্সিমেট",
+    "bangla_meaning": "আনুমানিক",
+    "memory_trick": "Approximate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 217,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাপ্রোক্সিমেট",
-    "word": "Approximate",
-    "trick": "Approximate"
+    "word": "Association",
+    "bangla_pronunciation": "অ্যাসোসিয়েশন",
+    "bangla_meaning": "সমিতি",
+    "memory_trick": "Association",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 218,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাসোসিয়েশন",
-    "word": "Association",
-    "trick": "Association"
+    "word": "Assumption",
+    "bangla_pronunciation": "অ্যাসাম্পশন",
+    "bangla_meaning": "অনুমান",
+    "memory_trick": "Assumption",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 219,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাসাম্পশন",
-    "word": "Assumption",
-    "trick": "Assumption"
+    "word": "Attitude",
+    "bangla_pronunciation": "অ্যাটিটিউড",
+    "bangla_meaning": "মনোভাব",
+    "memory_trick": "Attitude",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 220,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাটিটিউড",
-    "word": "Attitude",
-    "trick": "Attitude"
+    "word": "Attribute",
+    "bangla_pronunciation": "অ্যাট্রিবিউট",
+    "bangla_meaning": "বৈশিষ্ট্য",
+    "memory_trick": "Attribute",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 221,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাট্রিবিউট",
-    "word": "Attribute",
-    "trick": "Attribute"
+    "word": "Available",
+    "bangla_pronunciation": "অ্যাভেইলএবল",
+    "bangla_meaning": "উপলব্ধ",
+    "memory_trick": "Available",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 222,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অ্যাভেইলএবল",
-    "word": "Available",
-    "trick": "Available"
+    "word": "Beneficial",
+    "bangla_pronunciation": "বেনিফিশিয়াল",
+    "bangla_meaning": "উপকারী",
+    "memory_trick": "Beneficial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 223,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "বেনিফিশিয়াল",
-    "word": "Beneficial",
-    "trick": "Beneficial"
+    "word": "Boundary",
+    "bangla_pronunciation": "বাউন্ডারি",
+    "bangla_meaning": "সীমানা",
+    "memory_trick": "Boundary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 224,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "বাউন্ডারি",
-    "word": "Boundary",
-    "trick": "Boundary"
+    "word": "Capacity",
+    "bangla_pronunciation": "ক্যাপাসিটি",
+    "bangla_meaning": "ধারণক্ষমতা",
+    "memory_trick": "Capacity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 225,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্যাপাসিটি",
-    "word": "Capacity",
-    "trick": "Capacity"
+    "word": "Challenge",
+    "bangla_pronunciation": "চ্যালেঞ্জ",
+    "bangla_meaning": "চ্যালেঞ্জ",
+    "memory_trick": "Challenge",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 226,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "চ্যালেঞ্জ",
-    "word": "Challenge",
-    "trick": "Challenge"
+    "word": "Characteristic",
+    "bangla_pronunciation": "ক্যারেক্টারিস্টিক",
+    "bangla_meaning": "বৈশিষ্ট্য",
+    "memory_trick": "Characteristic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 227,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্যারেক্টারিস্টিক",
-    "word": "Characteristic",
-    "trick": "Characteristic"
+    "word": "Circumstance",
+    "bangla_pronunciation": "সারকামস্ট্যান্স",
+    "bangla_meaning": "পরিস্থিতি",
+    "memory_trick": "Circumstance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 228,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সারকামস্ট্যান্স",
-    "word": "Circumstance",
-    "trick": "Circumstance"
+    "word": "Coincidence",
+    "bangla_pronunciation": "কয়েনসিডেন্স",
+    "bangla_meaning": "কাকতালীয় ঘটনা",
+    "memory_trick": "Coincidence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 229,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কয়েনসিডেন্স",
-    "word": "Coincidence",
-    "trick": "Coincidence"
+    "word": "Collaboration",
+    "bangla_pronunciation": "কোলাবোরেশন",
+    "bangla_meaning": "সহযোগিতা",
+    "memory_trick": "Collaboration",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 230,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কোলাবোরেশন",
-    "word": "Collaboration",
-    "trick": "Collaboration"
+    "word": "Colleague",
+    "bangla_pronunciation": "কলিগ",
+    "bangla_meaning": "সহকর্মী",
+    "memory_trick": "Colleague",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 231,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কলিগ",
-    "word": "Colleague",
-    "trick": "Colleague"
+    "word": "Combination",
+    "bangla_pronunciation": "কম্বিনেশন",
+    "bangla_meaning": "সংমিশ্রণ",
+    "memory_trick": "Combination",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 232,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কম্বিনেশন",
-    "word": "Combination",
-    "trick": "Combination"
+    "word": "Commitment",
+    "bangla_pronunciation": "কমিটমেন্ট",
+    "bangla_meaning": "প্রতিশ্রুতি",
+    "memory_trick": "Commitment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 233,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কমিটমেন্ট",
-    "word": "Commitment",
-    "trick": "Commitment"
+    "word": "Comparative",
+    "bangla_pronunciation": "কমপ্যারেটিভ",
+    "bangla_meaning": "তুলনামূলক",
+    "memory_trick": "Comparative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 234,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কমপ্যারেটিভ",
-    "word": "Comparative",
-    "trick": "Comparative"
+    "word": "Compensate",
+    "bangla_pronunciation": "কম্পেনসেট",
+    "bangla_meaning": "ক্ষতিপূরণ",
+    "memory_trick": "Compensate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 235,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কম্পেনসেট",
-    "word": "Compensate",
-    "trick": "Compensate"
+    "word": "Competent",
+    "bangla_pronunciation": "কম্পিটেন্ট",
+    "bangla_meaning": "যোগ্য",
+    "memory_trick": "Competent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 236,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কম্পিটেন্ট",
-    "word": "Competent",
-    "trick": "Competent"
+    "word": "Comprehensive",
+    "bangla_pronunciation": "কম্প্রিহেনসিভ",
+    "bangla_meaning": "ব্যাপক",
+    "memory_trick": "Comprehensive",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 237,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কম্প্রিহেনসিভ",
-    "word": "Comprehensive",
-    "trick": "Comprehensive"
+    "word": "Conceive",
+    "bangla_pronunciation": "কনসিভ",
+    "bangla_meaning": "গর্ভধারণ করুন",
+    "memory_trick": "Conceive",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 238,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনসিভ",
-    "word": "Conceive",
-    "trick": "Conceive"
+    "word": "Concentrate",
+    "bangla_pronunciation": "কনসেন্ট্রেট",
+    "bangla_meaning": "মনোযোগ দিন",
+    "memory_trick": "Concentrate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 239,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনসেন্ট্রেট",
-    "word": "Concentrate",
-    "trick": "Concentrate"
+    "word": "Consequence",
+    "bangla_pronunciation": "কনসিকোয়েন্স",
+    "bangla_meaning": "পরিণতি",
+    "memory_trick": "Consequence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 240,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনসিকোয়েন্স",
-    "word": "Consequence",
-    "trick": "Consequence"
+    "word": "Considerable",
+    "bangla_pronunciation": "কনসিডারেবল",
+    "bangla_meaning": "যথেষ্ট",
+    "memory_trick": "Considerable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 241,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনসিডারেবল",
-    "word": "Considerable",
-    "trick": "Considerable"
+    "word": "Consistent",
+    "bangla_pronunciation": "কনসিস্টেন্ট",
+    "bangla_meaning": "সামঞ্জস্যপূর্ণ",
+    "memory_trick": "Consistent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 242,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনসিস্টেন্ট",
-    "word": "Consistent",
-    "trick": "Consistent"
+    "word": "Constituent",
+    "bangla_pronunciation": "কনস্টিটিউয়েন্ট",
+    "bangla_meaning": "উপাদান",
+    "memory_trick": "Constituent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 243,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনস্টিটিউয়েন্ট",
-    "word": "Constituent",
-    "trick": "Constituent"
+    "word": "Contemporary",
+    "bangla_pronunciation": "কনটেম্পোরারি",
+    "bangla_meaning": "সমসাময়িক",
+    "memory_trick": "Contemporary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 244,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনটেম্পোরারি",
-    "word": "Contemporary",
-    "trick": "Contemporary"
+    "word": "Continuous",
+    "bangla_pronunciation": "কন্টিনিউয়াস",
+    "bangla_meaning": "ক্রমাগত",
+    "memory_trick": "Continuous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 245,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কন্টিনিউয়াস",
-    "word": "Continuous",
-    "trick": "Continuous"
+    "word": "Contradiction",
+    "bangla_pronunciation": "কনট্রাডিকশন",
+    "bangla_meaning": "বৈপরীত্য",
+    "memory_trick": "Contradiction",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 246,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনট্রাডিকশন",
-    "word": "Contradiction",
-    "trick": "Contradiction"
+    "word": "Contribution",
+    "bangla_pronunciation": "কন্ট্রিবিউশন",
+    "bangla_meaning": "অবদান",
+    "memory_trick": "Contribution",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 247,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কন্ট্রিবিউশন",
-    "word": "Contribution",
-    "trick": "Contribution"
+    "word": "Convenient",
+    "bangla_pronunciation": "কনভিনিয়েন্ট",
+    "bangla_meaning": "সুবিধাজনক",
+    "memory_trick": "Convenient",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 248,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কনভিনিয়েন্ট",
-    "word": "Convenient",
-    "trick": "Convenient"
+    "word": "Correlation",
+    "bangla_pronunciation": "কোরিলেশন",
+    "bangla_meaning": "পারস্পরিক সম্পর্ক",
+    "memory_trick": "Correlation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 249,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কোরিলেশন",
-    "word": "Correlation",
-    "trick": "Correlation"
+    "word": "Criteria",
+    "bangla_pronunciation": "ক্রাইটেরিয়া",
+    "bangla_meaning": "মানদণ্ড",
+    "memory_trick": "Criteria",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 250,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্রাইটেরিয়া",
-    "word": "Criteria",
-    "trick": "Criteria"
+    "word": "Critical",
+    "bangla_pronunciation": "ক্রিটিক্যাল",
+    "bangla_meaning": "সমালোচনামূলক",
+    "memory_trick": "Critical",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 251,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্রিটিক্যাল",
-    "word": "Critical",
-    "trick": "Critical"
+    "word": "Crucial",
+    "bangla_pronunciation": "ক্রুশিয়াল",
+    "bangla_meaning": "গুরুত্বপূর্ণ",
+    "memory_trick": "Crucial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 252,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ক্রুশিয়াল",
-    "word": "Crucial",
-    "trick": "Crucial"
+    "word": "Cumulative",
+    "bangla_pronunciation": "কিউমুলেটিভ",
+    "bangla_meaning": "ক্রমবর্ধমান",
+    "memory_trick": "Cumulative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 253,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কিউমুলেটিভ",
-    "word": "Cumulative",
-    "trick": "Cumulative"
+    "word": "Curiosity",
+    "bangla_pronunciation": "কিউরিওসিটি",
+    "bangla_meaning": "কৌতূহল",
+    "memory_trick": "Curiosity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 254,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কিউরিওসিটি",
-    "word": "Curiosity",
-    "trick": "Curiosity"
+    "word": "Deficiency",
+    "bangla_pronunciation": "ডেফিসিয়েন্সি",
+    "bangla_meaning": "ঘাটতি",
+    "memory_trick": "Deficiency",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 255,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডেফিসিয়েন্সি",
-    "word": "Deficiency",
-    "trick": "Deficiency"
+    "word": "Dependent",
+    "bangla_pronunciation": "ডিপেন্ডেন্ট",
+    "bangla_meaning": "নির্ভরশীল",
+    "memory_trick": "Dependent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 256,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিপেন্ডেন্ট",
-    "word": "Dependent",
-    "trick": "Dependent"
+    "word": "Description",
+    "bangla_pronunciation": "ডেসক্রিপশন",
+    "bangla_meaning": "বর্ণনা",
+    "memory_trick": "Description",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 257,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডেসক্রিপশন",
-    "word": "Description",
-    "trick": "Description"
+    "word": "Desirable",
+    "bangla_pronunciation": "ডিজায়ারেবল",
+    "bangla_meaning": "আকাঙ্ক্ষিত",
+    "memory_trick": "Desirable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 258,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিজায়ারেবল",
-    "word": "Desirable",
-    "trick": "Desirable"
+    "word": "Deteriorate",
+    "bangla_pronunciation": "ডিটেরিওরেট",
+    "bangla_meaning": "অবনতি",
+    "memory_trick": "Deteriorate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 259,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিটেরিওরেট",
-    "word": "Deteriorate",
-    "trick": "Deteriorate"
+    "word": "Dimension",
+    "bangla_pronunciation": "ডাইমেনশন",
+    "bangla_meaning": "মাত্রা",
+    "memory_trick": "Dimension",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 260,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডাইমেনশন",
-    "word": "Dimension",
-    "trick": "Dimension"
+    "word": "Disappoint",
+    "bangla_pronunciation": "ডিসঅ্যাপয়েন্ট",
+    "bangla_meaning": "হতাশ করুন",
+    "memory_trick": "Disappoint",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 261,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিসঅ্যাপয়েন্ট",
-    "word": "Disappoint",
-    "trick": "Disappoint"
+    "word": "Discrimination",
+    "bangla_pronunciation": "ডিসক্রিমিনেশন",
+    "bangla_meaning": "বৈষম্য",
+    "memory_trick": "Discrimination",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 262,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিসক্রিমিনেশন",
-    "word": "Discrimination",
-    "trick": "Discrimination"
+    "word": "Distinct",
+    "bangla_pronunciation": "ডিসটিংক্ট",
+    "bangla_meaning": "স্বতন্ত্র",
+    "memory_trick": "Distinct",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 263,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডিসটিংক্ট",
-    "word": "Distinct",
-    "trick": "Distinct"
+    "word": "Diversity",
+    "bangla_pronunciation": "ডাইভারসিটি",
+    "bangla_meaning": "বৈচিত্র্য",
+    "memory_trick": "Diversity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 264,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডাইভারসিটি",
-    "word": "Diversity",
-    "trick": "Diversity"
+    "word": "Dominant",
+    "bangla_pronunciation": "ডোমিন্যান্ট",
+    "bangla_meaning": "প্রভাবশালী",
+    "memory_trick": "Dominant",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 265,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ডোমিন্যান্ট",
-    "word": "Dominant",
-    "trick": "Dominant"
+    "word": "Dramatic",
+    "bangla_pronunciation": "ড্রামাটিক",
+    "bangla_meaning": "নাটকীয়",
+    "memory_trick": "Dramatic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 266,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ড্রামাটিক",
-    "word": "Dramatic",
-    "trick": "Dramatic"
+    "word": "Efficiency",
+    "bangla_pronunciation": "এফিসিয়েন্সি",
+    "bangla_meaning": "দক্ষতা",
+    "memory_trick": "Efficiency",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 267,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এফিসিয়েন্সি",
-    "word": "Efficiency",
-    "trick": "Efficiency"
+    "word": "Emphasize",
+    "bangla_pronunciation": "এমফাসাইজ",
+    "bangla_meaning": "জোর দিন",
+    "memory_trick": "Emphasize",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 268,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এমফাসাইজ",
-    "word": "Emphasize",
-    "trick": "Emphasize"
+    "word": "Empirical",
+    "bangla_pronunciation": "এমপিরিক্যাল",
+    "bangla_meaning": "অভিজ্ঞতামূলক",
+    "memory_trick": "Empirical",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 269,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এমপিরিক্যাল",
-    "word": "Empirical",
-    "trick": "Empirical"
+    "word": "Enormous",
+    "bangla_pronunciation": "এনোরমাস",
+    "bangla_meaning": "বিশাল",
+    "memory_trick": "Enormous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 270,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এনোরমাস",
-    "word": "Enormous",
-    "trick": "Enormous"
+    "word": "Enthusiasm",
+    "bangla_pronunciation": "এনথুসিয়াজম",
+    "bangla_meaning": "উৎসাহ",
+    "memory_trick": "Enthusiasm",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 271,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এনথুসিয়াজম",
-    "word": "Enthusiasm",
-    "trick": "Enthusiasm"
+    "word": "Equivalent",
+    "bangla_pronunciation": "ইকুইভ্যালেন্ট",
+    "bangla_meaning": "সমতুল্য",
+    "memory_trick": "Equivalent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 272,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইকুইভ্যালেন্ট",
-    "word": "Equivalent",
-    "trick": "Equivalent"
+    "word": "Essential",
+    "bangla_pronunciation": "এসেনশিয়াল",
+    "bangla_meaning": "অপরিহার্য",
+    "memory_trick": "Essential",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 273,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এসেনশিয়াল",
-    "word": "Essential",
-    "trick": "Essential"
+    "word": "Establishment",
+    "bangla_pronunciation": "এস্টাবলিশমেন্ট",
+    "bangla_meaning": "প্রতিষ্ঠা",
+    "memory_trick": "Establishment",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 274,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এস্টাবলিশমেন্ট",
-    "word": "Establishment",
-    "trick": "Establishment"
+    "word": "Evaluate",
+    "bangla_pronunciation": "ইভালুয়েট",
+    "bangla_meaning": "মূল্যায়ন করুন",
+    "memory_trick": "Evaluate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 275,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইভালুয়েট",
-    "word": "Evaluate",
-    "trick": "Evaluate"
+    "word": "Exaggerate",
+    "bangla_pronunciation": "এক্সাজারেট",
+    "bangla_meaning": "অতিরঞ্জিত",
+    "memory_trick": "Exaggerate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 276,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সাজারেট",
-    "word": "Exaggerate",
-    "trick": "Exaggerate"
+    "word": "Excellence",
+    "bangla_pronunciation": "এক্সিলেন্স",
+    "bangla_meaning": "শ্রেষ্ঠত্ব",
+    "memory_trick": "Excellence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 277,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সিলেন্স",
-    "word": "Excellence",
-    "trick": "Excellence"
+    "word": "Exception",
+    "bangla_pronunciation": "এক্সেপশন",
+    "bangla_meaning": "ব্যতিক্রম",
+    "memory_trick": "Exception",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 278,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সেপশন",
-    "word": "Exception",
-    "trick": "Exception"
+    "word": "Exhaustive",
+    "bangla_pronunciation": "এক্সহস্টিভ",
+    "bangla_meaning": "পুঙ্খানুপুঙ্খ",
+    "memory_trick": "Exhaustive",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 279,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সহস্টিভ",
-    "word": "Exhaustive",
-    "trick": "Exhaustive"
+    "word": "Expansion",
+    "bangla_pronunciation": "এক্সপ্যানশন",
+    "bangla_meaning": "সম্প্রসারণ",
+    "memory_trick": "Expansion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 280,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সপ্যানশন",
-    "word": "Expansion",
-    "trick": "Expansion"
+    "word": "Expectation",
+    "bangla_pronunciation": "এক্সপেক্টেশন",
+    "bangla_meaning": "প্রত্যাশা",
+    "memory_trick": "Expectation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 281,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সপেক্টেশন",
-    "word": "Expectation",
-    "trick": "Expectation"
+    "word": "Experience",
+    "bangla_pronunciation": "এক্সপেরিয়েন্স",
+    "bangla_meaning": "অভিজ্ঞতা",
+    "memory_trick": "Experience",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 282,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সপেরিয়েন্স",
-    "word": "Experience",
-    "trick": "Experience"
+    "word": "Explanation",
+    "bangla_pronunciation": "এক্সপ্ল্যানেশন",
+    "bangla_meaning": "ব্যাখ্যা",
+    "memory_trick": "Explanation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 283,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "এক্সপ্ল্যানেশন",
-    "word": "Explanation",
-    "trick": "Explanation"
+    "word": "Fascinating",
+    "bangla_pronunciation": "ফ্যাসিনেটিং",
+    "bangla_meaning": "আকর্ষণীয়",
+    "memory_trick": "Fascinating",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 284,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফ্যাসিনেটিং",
-    "word": "Fascinating",
-    "trick": "Fascinating"
+    "word": "Fluctuation",
+    "bangla_pronunciation": "ফ্লাকচুয়েশন",
+    "bangla_meaning": "ওঠানামা",
+    "memory_trick": "Fluctuation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 285,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফ্লাকচুয়েশন",
-    "word": "Fluctuation",
-    "trick": "Fluctuation"
+    "word": "Generosity",
+    "bangla_pronunciation": "জেনারেসিটি",
+    "bangla_meaning": "উদারতা",
+    "memory_trick": "Generosity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 286,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "জেনারেসিটি",
-    "word": "Generosity",
-    "trick": "Generosity"
+    "word": "Hierarchy",
+    "bangla_pronunciation": "হায়ারার্কি",
+    "bangla_meaning": "শ্রেণিবিন্যাস",
+    "memory_trick": "Hierarchy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 287,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "হায়ারার্কি",
-    "word": "Hierarchy",
-    "trick": "Hierarchy"
+    "word": "Hypocrisy",
+    "bangla_pronunciation": "হিপোক্রেসি",
+    "bangla_meaning": "ভণ্ডামি",
+    "memory_trick": "Hypocrisy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 288,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "হিপোক্রেসি",
-    "word": "Hypocrisy",
-    "trick": "Hypocrisy"
+    "word": "Identify",
+    "bangla_pronunciation": "আইডেন্টিফাই",
+    "bangla_meaning": "শনাক্ত করুন",
+    "memory_trick": "Identify",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 289,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আইডেন্টিফাই",
-    "word": "Identify",
-    "trick": "Identify"
+    "word": "Illusion",
+    "bangla_pronunciation": "ইলিউশন",
+    "bangla_meaning": "বিভ্রম",
+    "memory_trick": "Illusion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 290,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইলিউশন",
-    "word": "Illusion",
-    "trick": "Illusion"
+    "word": "Illustration",
+    "bangla_pronunciation": "ইলাস্ট্রেশন",
+    "bangla_meaning": "চিত্র",
+    "memory_trick": "Illustration",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 291,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইলাস্ট্রেশন",
-    "word": "Illustration",
-    "trick": "Illustration"
+    "word": "Implement",
+    "bangla_pronunciation": "ইমপ্লিমেন্ট",
+    "bangla_meaning": "বাস্তবায়ন করুন",
+    "memory_trick": "Implement",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 292,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইমপ্লিমেন্ট",
-    "word": "Implement",
-    "trick": "Implement"
+    "word": "Implication",
+    "bangla_pronunciation": "ইমপ্লিকেশন",
+    "bangla_meaning": "প্রভাব",
+    "memory_trick": "Implication",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 293,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইমপ্লিকেশন",
-    "word": "Implication",
-    "trick": "Implication"
+    "word": "Impression",
+    "bangla_pronunciation": "ইম্প্রেশন",
+    "bangla_meaning": "ছাপ",
+    "memory_trick": "Impression",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 294,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইম্প্রেশন",
-    "word": "Impression",
-    "trick": "Impression"
+    "word": "Incidence",
+    "bangla_pronunciation": "ইনসিডেন্স",
+    "bangla_meaning": "ঘটনা",
+    "memory_trick": "Incidence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 295,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনসিডেন্স",
-    "word": "Incidence",
-    "trick": "Incidence"
+    "word": "Incredible",
+    "bangla_pronunciation": "ইনক্রেডিবল",
+    "bangla_meaning": "অবিশ্বাস্য",
+    "memory_trick": "Incredible",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 296,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনক্রেডিবল",
-    "word": "Incredible",
-    "trick": "Incredible"
+    "word": "Indispensable",
+    "bangla_pronunciation": "ইনডিসপেনসেবল",
+    "bangla_meaning": "অপরিহার্য",
+    "memory_trick": "Indispensable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 297,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনডিসপেনসেবল",
-    "word": "Indispensable",
-    "trick": "Indispensable"
+    "word": "Individual",
+    "bangla_pronunciation": "ইন্ডিভিজুয়াল",
+    "bangla_meaning": "ব্যক্তি",
+    "memory_trick": "Individual",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 298,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইন্ডিভিজুয়াল",
-    "word": "Individual",
-    "trick": "Individual"
+    "word": "Inevitable",
+    "bangla_pronunciation": "ইনেভিটেবল",
+    "bangla_meaning": "অনিবার্য",
+    "memory_trick": "Inevitable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 299,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনেভিটেবল",
-    "word": "Inevitable",
-    "trick": "Inevitable"
+    "word": "Influence",
+    "bangla_pronunciation": "ইনফ্লুয়েন্স",
+    "bangla_meaning": "প্রভাব",
+    "memory_trick": "Influence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 300,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনফ্লুয়েন্স",
-    "word": "Influence",
-    "trick": "Influence"
+    "word": "Initiative",
+    "bangla_pronunciation": "ইনিশিয়েটিভ",
+    "bangla_meaning": "উদ্যোগ",
+    "memory_trick": "Initiative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 301,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনিশিয়েটিভ",
-    "word": "Initiative",
-    "trick": "Initiative"
+    "word": "Interaction",
+    "bangla_pronunciation": "ইন্টারঅ্যাকশন",
+    "bangla_meaning": "মিথস্ক্রিয়া",
+    "memory_trick": "Interaction",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 302,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইন্টারঅ্যাকশন",
-    "word": "Interaction",
-    "trick": "Interaction"
+    "word": "Interpretation",
+    "bangla_pronunciation": "ইন্টারপ্রিটেশন",
+    "bangla_meaning": "ব্যাখ্যা",
+    "memory_trick": "Interpretation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 303,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইন্টারপ্রিটেশন",
-    "word": "Interpretation",
-    "trick": "Interpretation"
+    "word": "Interruption",
+    "bangla_pronunciation": "ইন্টারাপশন",
+    "bangla_meaning": "বাধা",
+    "memory_trick": "Interruption",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 304,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইন্টারাপশন",
-    "word": "Interruption",
-    "trick": "Interruption"
+    "word": "Intervention",
+    "bangla_pronunciation": "ইন্টারভেনশন",
+    "bangla_meaning": "হস্তক্ষেপ",
+    "memory_trick": "Intervention",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 305,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইন্টারভেনশন",
-    "word": "Intervention",
-    "trick": "Intervention"
+    "word": "Investigation",
+    "bangla_pronunciation": "ইনভেস্টিগেশন",
+    "bangla_meaning": "তদন্ত",
+    "memory_trick": "Investigation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 306,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইনভেস্টিগেশন",
-    "word": "Investigation",
-    "trick": "Investigation"
+    "word": "Irrigation",
+    "bangla_pronunciation": "ইরিগেশন",
+    "bangla_meaning": "সেচ",
+    "memory_trick": "Irrigation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 307,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইরিগেশন",
-    "word": "Irrigation",
-    "trick": "Irrigation"
+    "word": "Justification",
+    "bangla_pronunciation": "জাস্টিফিকেশন",
+    "bangla_meaning": "ন্যায্যতা",
+    "memory_trick": "Justification",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 308,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "জাস্টিফিকেশন",
-    "word": "Justification",
-    "trick": "Justification"
+    "word": "Leadership",
+    "bangla_pronunciation": "লিডারশিপ",
+    "bangla_meaning": "নেতৃত্ব",
+    "memory_trick": "Leadership",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 309,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "লিডারশিপ",
-    "word": "Leadership",
-    "trick": "Leadership"
+    "word": "Legitimate",
+    "bangla_pronunciation": "লেজিটিমেট",
+    "bangla_meaning": "বৈধ",
+    "memory_trick": "Legitimate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 310,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "লেজিটিমেট",
-    "word": "Legitimate",
-    "trick": "Legitimate"
+    "word": "Likelihood",
+    "bangla_pronunciation": "লাইকলিহুড",
+    "bangla_meaning": "সম্ভাবনা",
+    "memory_trick": "Likelihood",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 311,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "লাইকলিহুড",
-    "word": "Likelihood",
-    "trick": "Likelihood"
+    "word": "Limitation",
+    "bangla_pronunciation": "লিমিটেশন",
+    "bangla_meaning": "সীমাবদ্ধতা",
+    "memory_trick": "Limitation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 312,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "লিমিটেশন",
-    "word": "Limitation",
-    "trick": "Limitation"
+    "word": "Linguistic",
+    "bangla_pronunciation": "লিঙ্গুইস্টিক",
+    "bangla_meaning": "ভাষাগত",
+    "memory_trick": "Linguistic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 313,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "লিঙ্গুইস্টিক",
-    "word": "Linguistic",
-    "trick": "Linguistic"
+    "word": "Magnitude",
+    "bangla_pronunciation": "ম্যাগনিটিউড",
+    "bangla_meaning": "মাত্রা",
+    "memory_trick": "Magnitude",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 314,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ম্যাগনিটিউড",
-    "word": "Magnitude",
-    "trick": "Magnitude"
+    "word": "Mandatory",
+    "bangla_pronunciation": "ম্যান্ডেটরি",
+    "bangla_meaning": "বাধ্যতামূলক",
+    "memory_trick": "Mandatory",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 315,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ম্যান্ডেটরি",
-    "word": "Mandatory",
-    "trick": "Mandatory"
+    "word": "Manipulation",
+    "bangla_pronunciation": "ম্যানিপুলেশন",
+    "bangla_meaning": "কারসাজি",
+    "memory_trick": "Manipulation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 316,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ম্যানিপুলেশন",
-    "word": "Manipulation",
-    "trick": "Manipulation"
+    "word": "Mechanism",
+    "bangla_pronunciation": "মেকানিজম",
+    "bangla_meaning": "প্রক্রিয়া",
+    "memory_trick": "Mechanism",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 317,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "মেকানিজম",
-    "word": "Mechanism",
-    "trick": "Mechanism"
+    "word": "Mischievous",
+    "bangla_pronunciation": "মিসচিভাস",
+    "bangla_meaning": "দুষ্টু",
+    "memory_trick": "Mischievous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 318,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "মিসচিভাস",
-    "word": "Mischievous",
-    "trick": "Mischievous"
+    "word": "Monotonous",
+    "bangla_pronunciation": "মনোটোনাস",
+    "bangla_meaning": "একঘেয়ে",
+    "memory_trick": "Monotonous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 319,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "মনোটোনাস",
-    "word": "Monotonous",
-    "trick": "Monotonous"
+    "word": "Motivation",
+    "bangla_pronunciation": "মোটিভেশন",
+    "bangla_meaning": "অনুপ্রেরণা",
+    "memory_trick": "Motivation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 320,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "মোটিভেশন",
-    "word": "Motivation",
-    "trick": "Motivation"
+    "word": "Negligence",
+    "bangla_pronunciation": "নেগ্লিজেন্স",
+    "bangla_meaning": "অবহেলা",
+    "memory_trick": "Negligence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 321,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "নেগ্লিজেন্স",
-    "word": "Negligence",
-    "trick": "Negligence"
+    "word": "Negotiation",
+    "bangla_pronunciation": "নেগোশিয়েশন",
+    "bangla_meaning": "আলোচনা",
+    "memory_trick": "Negotiation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 322,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "নেগোশিয়েশন",
-    "word": "Negotiation",
-    "trick": "Negotiation"
+    "word": "Neighbor",
+    "bangla_pronunciation": "নেইবার",
+    "bangla_meaning": "প্রতিবেশী",
+    "memory_trick": "Neighbor",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 323,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "নেইবার",
-    "word": "Neighbor",
-    "trick": "Neighbor"
+    "word": "Objective",
+    "bangla_pronunciation": "অবজেক্টিভ",
+    "bangla_meaning": "উদ্দেশ্য",
+    "memory_trick": "Objective",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 324,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অবজেক্টিভ",
-    "word": "Objective",
-    "trick": "Objective"
+    "word": "Obligation",
+    "bangla_pronunciation": "অবলিগেশন",
+    "bangla_meaning": "বাধ্যবাধকতা",
+    "memory_trick": "Obligation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 325,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অবলিগেশন",
-    "word": "Obligation",
-    "trick": "Obligation"
+    "word": "Observation",
+    "bangla_pronunciation": "অবজারভেশন",
+    "bangla_meaning": "পর্যবেক্ষণ",
+    "memory_trick": "Observation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 326,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অবজারভেশন",
-    "word": "Observation",
-    "trick": "Observation"
+    "word": "Obstacle",
+    "bangla_pronunciation": "অবস্ট্যাকল",
+    "bangla_meaning": "বাধা",
+    "memory_trick": "Obstacle",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 327,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "অবস্ট্যাকল",
-    "word": "Obstacle",
-    "trick": "Obstacle"
+    "word": "Occurrence",
+    "bangla_pronunciation": "ওকারেন্স",
+    "bangla_meaning": "ঘটনা",
+    "memory_trick": "Occurrence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 328,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ওকারেন্স",
-    "word": "Occurrence",
-    "trick": "Occurrence"
+    "word": "Orientation",
+    "bangla_pronunciation": "ওরিয়েন্টেশন",
+    "bangla_meaning": "অভিমুখীকরণ",
+    "memory_trick": "Orientation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 329,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ওরিয়েন্টেশন",
-    "word": "Orientation",
-    "trick": "Orientation"
+    "word": "Overcome",
+    "bangla_pronunciation": "ওভারকাম",
+    "bangla_meaning": "অতিক্রম করা",
+    "memory_trick": "Overcome",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 330,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ওভারকাম",
-    "word": "Overcome",
-    "trick": "Overcome"
+    "word": "Parallel",
+    "bangla_pronunciation": "প্যারালাল",
+    "bangla_meaning": "সমান্তরাল",
+    "memory_trick": "Parallel",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 331,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্যারালাল",
-    "word": "Parallel",
-    "trick": "Parallel"
+    "word": "Participant",
+    "bangla_pronunciation": "পার্টিসিপ্যান্ট",
+    "bangla_meaning": "অংশগ্রহণকারী",
+    "memory_trick": "Participant",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 332,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পার্টিসিপ্যান্ট",
-    "word": "Participant",
-    "trick": "Participant"
+    "word": "Particular",
+    "bangla_pronunciation": "পার্টিকুলার",
+    "bangla_meaning": "বিশেষ",
+    "memory_trick": "Particular",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 333,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পার্টিকুলার",
-    "word": "Particular",
-    "trick": "Particular"
+    "word": "Perception",
+    "bangla_pronunciation": "পারসেপশন",
+    "bangla_meaning": "উপলব্ধি",
+    "memory_trick": "Perception",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 334,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পারসেপশন",
-    "word": "Perception",
-    "trick": "Perception"
+    "word": "Performance",
+    "bangla_pronunciation": "পারফর্ম্যান্স",
+    "bangla_meaning": "কর্মক্ষমতা",
+    "memory_trick": "Performance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 335,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পারফর্ম্যান্স",
-    "word": "Performance",
-    "trick": "Performance"
+    "word": "Perspective",
+    "bangla_pronunciation": "পারসপেক্টিভ",
+    "bangla_meaning": "দৃষ্টিকোণ",
+    "memory_trick": "Perspective",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 336,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পারসপেক্টিভ",
-    "word": "Perspective",
-    "trick": "Perspective"
+    "word": "Phenomenon",
+    "bangla_pronunciation": "ফেনোমেনন",
+    "bangla_meaning": "ঘটনা",
+    "memory_trick": "Phenomenon",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 337,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফেনোমেনন",
-    "word": "Phenomenon",
-    "trick": "Phenomenon"
+    "word": "Potential",
+    "bangla_pronunciation": "পটেনশিয়াল",
+    "bangla_meaning": "সম্ভাবনা",
+    "memory_trick": "Potential",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 338,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "পটেনশিয়াল",
-    "word": "Potential",
-    "trick": "Potential"
+    "word": "Precaution",
+    "bangla_pronunciation": "প্রিকশন",
+    "bangla_meaning": "সতর্কতা",
+    "memory_trick": "Precaution",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 339,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রিকশন",
-    "word": "Precaution",
-    "trick": "Precaution"
+    "word": "Predictable",
+    "bangla_pronunciation": "প্রেডিক্টেবল",
+    "bangla_meaning": "অনুমানযোগ্য",
+    "memory_trick": "Predictable",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 340,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রেডিক্টেবল",
-    "word": "Predictable",
-    "trick": "Predictable"
+    "word": "Preference",
+    "bangla_pronunciation": "প্রেফারেন্স",
+    "bangla_meaning": "পছন্দ",
+    "memory_trick": "Preference",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 341,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রেফারেন্স",
-    "word": "Preference",
-    "trick": "Preference"
+    "word": "Preliminary",
+    "bangla_pronunciation": "প্রিলিমিনারি",
+    "bangla_meaning": "প্রাথমিক",
+    "memory_trick": "Preliminary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 342,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রিলিমিনারি",
-    "word": "Preliminary",
-    "trick": "Preliminary"
+    "word": "Preparation",
+    "bangla_pronunciation": "প্রিপারেশন",
+    "bangla_meaning": "প্রস্তুতি",
+    "memory_trick": "Preparation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 343,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রিপারেশন",
-    "word": "Preparation",
-    "trick": "Preparation"
+    "word": "Prevalent",
+    "bangla_pronunciation": "প্রেভালেন্ট",
+    "bangla_meaning": "প্রচলিত",
+    "memory_trick": "Prevalent",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 344,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রেভালেন্ট",
-    "word": "Prevalent",
-    "trick": "Prevalent"
+    "word": "Priority",
+    "bangla_pronunciation": "প্রায়োরিটি",
+    "bangla_meaning": "অগ্রাধিকার",
+    "memory_trick": "Priority",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 345,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রায়োরিটি",
-    "word": "Priority",
-    "trick": "Priority"
+    "word": "Probability",
+    "bangla_pronunciation": "প্রোবাবিলিটি",
+    "bangla_meaning": "সম্ভাবনা",
+    "memory_trick": "Probability",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 346,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রোবাবিলিটি",
-    "word": "Probability",
-    "trick": "Probability"
+    "word": "Procedure",
+    "bangla_pronunciation": "প্রোসিডিউর",
+    "bangla_meaning": "পদ্ধতি",
+    "memory_trick": "Procedure",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 347,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রোসিডিউর",
-    "word": "Procedure",
-    "trick": "Procedure"
+    "word": "Proportion",
+    "bangla_pronunciation": "প্রোপোরশন",
+    "bangla_meaning": "অনুপাত",
+    "memory_trick": "Proportion",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 348,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "প্রোপোরশন",
-    "word": "Proportion",
-    "trick": "Proportion"
+    "word": "Psychological",
+    "bangla_pronunciation": "সাইকোলজিক্যাল",
+    "bangla_meaning": "মনস্তাত্ত্বিক",
+    "memory_trick": "Psychological",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 349,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাইকোলজিক্যাল",
-    "word": "Psychological",
-    "trick": "Psychological"
+    "word": "Qualitative",
+    "bangla_pronunciation": "কোয়ালিটেটিভ",
+    "bangla_meaning": "গুণগত",
+    "memory_trick": "Qualitative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 350,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কোয়ালিটেটিভ",
-    "word": "Qualitative",
-    "trick": "Qualitative"
+    "word": "Quantitative",
+    "bangla_pronunciation": "কোয়ান্টিটেটিভ",
+    "bangla_meaning": "পরিমাণগত",
+    "memory_trick": "Quantitative",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 351,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কোয়ান্টিটেটিভ",
-    "word": "Quantitative",
-    "trick": "Quantitative"
+    "word": "Questionnaire",
+    "bangla_pronunciation": "কোশ্চেনায়ার",
+    "bangla_meaning": "প্রশ্নাবলী",
+    "memory_trick": "Questionnaire",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 352,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "কোশ্চেনায়ার",
-    "word": "Questionnaire",
-    "trick": "Questionnaire"
+    "word": "Random",
+    "bangla_pronunciation": "র্যান্ডম",
+    "bangla_meaning": "র‍্যান্ডম",
+    "memory_trick": "Random",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 353,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "র্যান্ডম",
-    "word": "Random",
-    "trick": "Random"
+    "word": "Rational",
+    "bangla_pronunciation": "রেশনাল",
+    "bangla_meaning": "যুক্তিসঙ্গত",
+    "memory_trick": "Rational",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 354,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেশনাল",
-    "word": "Rational",
-    "trick": "Rational"
+    "word": "Recognition",
+    "bangla_pronunciation": "রেকগনিশন",
+    "bangla_meaning": "স্বীকৃতি",
+    "memory_trick": "Recognition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 355,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেকগনিশন",
-    "word": "Recognition",
-    "trick": "Recognition"
+    "word": "Recommendation",
+    "bangla_pronunciation": "রেকমান্ডেশন",
+    "bangla_meaning": "সুপারিশ",
+    "memory_trick": "Recommendation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 356,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেকমান্ডেশন",
-    "word": "Recommendation",
-    "trick": "Recommendation"
+    "word": "Redundancy",
+    "bangla_pronunciation": "রিডানড্যান্সি",
+    "bangla_meaning": "ছাঁটাই",
+    "memory_trick": "Redundancy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 357,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিডানড্যান্সি",
-    "word": "Redundancy",
-    "trick": "Redundancy"
+    "word": "Refendum",
+    "bangla_pronunciation": "রেফারেন্ডাম",
+    "bangla_meaning": "রেফেন্ডাম",
+    "memory_trick": "Refendum",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 358,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেফারেন্ডাম",
-    "word": "Refendum",
-    "trick": "Refendum"
+    "word": "Regulation",
+    "bangla_pronunciation": "রেগুলেশন",
+    "bangla_meaning": "প্রবিধান",
+    "memory_trick": "Regulation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 359,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেগুলেশন",
-    "word": "Regulation",
-    "trick": "Regulation"
+    "word": "Relevance",
+    "bangla_pronunciation": "রেলেভ্যান্স",
+    "bangla_meaning": "প্রাসঙ্গিকতা",
+    "memory_trick": "Relevance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 360,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেলেভ্যান্স",
-    "word": "Relevance",
-    "trick": "Relevance"
+    "word": "Reliability",
+    "bangla_pronunciation": "রিল্যায়াবিলিটি",
+    "bangla_meaning": "নির্ভরযোগ্যতা",
+    "memory_trick": "Reliability",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 361,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিল্যায়াবিলিটি",
-    "word": "Reliability",
-    "trick": "Reliability"
+    "word": "Reluctant",
+    "bangla_pronunciation": "রিল্যাকট্যান্ট",
+    "bangla_meaning": "অনিচ্ছুক",
+    "memory_trick": "Reluctant",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 362,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিল্যাকট্যান্ট",
-    "word": "Reluctant",
-    "trick": "Reluctant"
+    "word": "Requirement",
+    "bangla_pronunciation": "রিকোয়ারমেন্ট",
+    "bangla_meaning": "প্রয়োজনীয়তা",
+    "memory_trick": "Requirement",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 363,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রিকোয়ারমেন্ট",
-    "word": "Requirement",
-    "trick": "Requirement"
+    "word": "Resistance",
+    "bangla_pronunciation": "রেজিস্ট্যান্স",
+    "bangla_meaning": "প্রতিরোধ",
+    "memory_trick": "Resistance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 364,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেজিস্ট্যান্স",
-    "word": "Resistance",
-    "trick": "Resistance"
+    "word": "Resolution",
+    "bangla_pronunciation": "রেজোলিউশন",
+    "bangla_meaning": "সমাধান",
+    "memory_trick": "Resolution",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 365,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেজোলিউশন",
-    "word": "Resolution",
-    "trick": "Resolution"
+    "word": "Respective",
+    "bangla_pronunciation": "রেসপেক্টিভ",
+    "bangla_meaning": "যথাক্রমে",
+    "memory_trick": "Respective",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 366,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেসপেক্টিভ",
-    "word": "Respective",
-    "trick": "Respective"
+    "word": "Restriction",
+    "bangla_pronunciation": "রেস্ট্রিকশন",
+    "bangla_meaning": "সীমাবদ্ধতা",
+    "memory_trick": "Restriction",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 367,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেস্ট্রিকশন",
-    "word": "Restriction",
-    "trick": "Restriction"
+    "word": "Revolutionary",
+    "bangla_pronunciation": "রেভোলিউশনারি",
+    "bangla_meaning": "বিপ্লবী",
+    "memory_trick": "Revolutionary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 368,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "রেভোলিউশনারি",
-    "word": "Revolutionary",
-    "trick": "Revolutionary"
+    "word": "Sacrifice",
+    "bangla_pronunciation": "স্যাক্রিফাইস",
+    "bangla_meaning": "ত্যাগ",
+    "memory_trick": "Sacrifice",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 369,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্যাক্রিফাইস",
-    "word": "Sacrifice",
-    "trick": "Sacrifice"
+    "word": "Sanctuary",
+    "bangla_pronunciation": "স্যাঙ্কচুয়ারি",
+    "bangla_meaning": "অভয়ারণ্য",
+    "memory_trick": "Sanctuary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 370,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্যাঙ্কচুয়ারি",
-    "word": "Sanctuary",
-    "trick": "Sanctuary"
+    "word": "Scenario",
+    "bangla_pronunciation": "সিনারিও",
+    "bangla_meaning": "দৃশ্যকল্প",
+    "memory_trick": "Scenario",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 371,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সিনারিও",
-    "word": "Scenario",
-    "trick": "Scenario"
+    "word": "Secular",
+    "bangla_pronunciation": "সেক্যুলার",
+    "bangla_meaning": "ধর্মনিরপেক্ষ",
+    "memory_trick": "Secular",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 372,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সেক্যুলার",
-    "word": "Secular",
-    "trick": "Secular"
+    "word": "Segregation",
+    "bangla_pronunciation": "সেগ্রিগেশন",
+    "bangla_meaning": "বিচ্ছিন্নতা",
+    "memory_trick": "Segregation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 373,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সেগ্রিগেশন",
-    "word": "Segregation",
-    "trick": "Segregation"
+    "word": "Sequence",
+    "bangla_pronunciation": "সিকোয়েন্স",
+    "bangla_meaning": "ক্রম",
+    "memory_trick": "Sequence",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 374,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সিকোয়েন্স",
-    "word": "Sequence",
-    "trick": "Sequence"
+    "word": "Significance",
+    "bangla_pronunciation": "সিগনিফিক্যান্স",
+    "bangla_meaning": "তাৎপর্য",
+    "memory_trick": "Significance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 375,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সিগনিফিক্যান্স",
-    "word": "Significance",
-    "trick": "Significance"
+    "word": "Simultaneous",
+    "bangla_pronunciation": "সাইমালটেনিয়াস",
+    "bangla_meaning": "একযোগে",
+    "memory_trick": "Simultaneous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 376,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাইমালটেনিয়াস",
-    "word": "Simultaneous",
-    "trick": "Simultaneous"
+    "word": "Sovereignty",
+    "bangla_pronunciation": "সোভেরেনটি",
+    "bangla_meaning": "সার্বভৌমত্ব",
+    "memory_trick": "Sovereignty",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 377,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সোভেরেনটি",
-    "word": "Sovereignty",
-    "trick": "Sovereignty"
+    "word": "Specific",
+    "bangla_pronunciation": "স্পেসিফিক",
+    "bangla_meaning": "নির্দিষ্ট",
+    "memory_trick": "Specific",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 378,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্পেসিফিক",
-    "word": "Specific",
-    "trick": "Specific"
+    "word": "Speculation",
+    "bangla_pronunciation": "স্পেকুলেশন",
+    "bangla_meaning": "জল্পনা",
+    "memory_trick": "Speculation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 379,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্পেকুলেশন",
-    "word": "Speculation",
-    "trick": "Speculation"
+    "word": "Spontaneous",
+    "bangla_pronunciation": "স্পন্টেনিয়াস",
+    "bangla_meaning": "স্বতঃস্ফূর্ত",
+    "memory_trick": "Spontaneous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 380,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্পন্টেনিয়াস",
-    "word": "Spontaneous",
-    "trick": "Spontaneous"
+    "word": "Statistics",
+    "bangla_pronunciation": "স্ট্যাটিস্টিক্স",
+    "bangla_meaning": "পরিসংখ্যান",
+    "memory_trick": "Statistics",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 381,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্ট্যাটিস্টিক্স",
-    "word": "Statistics",
-    "trick": "Statistics"
+    "word": "Strategy",
+    "bangla_pronunciation": "স্ট্র্যাটেজি",
+    "bangla_meaning": "কৌশল",
+    "memory_trick": "Strategy",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 382,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্ট্র্যাটেজি",
-    "word": "Strategy",
-    "trick": "Strategy"
+    "word": "Structure",
+    "bangla_pronunciation": "স্ট্রাকচার",
+    "bangla_meaning": "কাঠামো",
+    "memory_trick": "Structure",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 383,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "স্ট্রাকচার",
-    "word": "Structure",
-    "trick": "Structure"
+    "word": "Substantial",
+    "bangla_pronunciation": "সাবস্ট্যানশিয়াল",
+    "bangla_meaning": "যথেষ্ট",
+    "memory_trick": "Substantial",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 384,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাবস্ট্যানশিয়াল",
-    "word": "Substantial",
-    "trick": "Substantial"
+    "word": "Sufficient",
+    "bangla_pronunciation": "সাফিশিয়েন্ট",
+    "bangla_meaning": "পর্যাপ্ত",
+    "memory_trick": "Sufficient",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 385,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাফিশিয়েন্ট",
-    "word": "Sufficient",
-    "trick": "Sufficient"
+    "word": "Supervision",
+    "bangla_pronunciation": "সুপারভিশন",
+    "bangla_meaning": "তত্ত্বাবধান",
+    "memory_trick": "Supervision",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 386,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সুপারভিশন",
-    "word": "Supervision",
-    "trick": "Supervision"
+    "word": "Supplement",
+    "bangla_pronunciation": "সাপ্লিমেন্ট",
+    "bangla_meaning": "পরিপূরক",
+    "memory_trick": "Supplement",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 387,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সাপ্লিমেন্ট",
-    "word": "Supplement",
-    "trick": "Supplement"
+    "word": "Surveillance",
+    "bangla_pronunciation": "সার্ভেইল্যান্স",
+    "bangla_meaning": "নজরদারি",
+    "memory_trick": "Surveillance",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 388,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সার্ভেইল্যান্স",
-    "word": "Surveillance",
-    "trick": "Surveillance"
+    "word": "Sympathetic",
+    "bangla_pronunciation": "সিমপ্যাথেটিক",
+    "bangla_meaning": "সহানুভূতিশীল",
+    "memory_trick": "Sympathetic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 389,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সিমপ্যাথেটিক",
-    "word": "Sympathetic",
-    "trick": "Sympathetic"
+    "word": "Systematic",
+    "bangla_pronunciation": "সিস্টেমেটিক",
+    "bangla_meaning": "পদ্ধতিগত",
+    "memory_trick": "Systematic",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 390,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "সিস্টেমেটিক",
-    "word": "Systematic",
-    "trick": "Systematic"
+    "word": "Target",
+    "bangla_pronunciation": "টার্গেট",
+    "bangla_meaning": "লক্ষ্য",
+    "memory_trick": "Target",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 391,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "টার্গেট",
-    "word": "Target",
-    "trick": "Target"
+    "word": "Technique",
+    "bangla_pronunciation": "টেকনিক",
+    "bangla_meaning": "কৌশল",
+    "memory_trick": "Technique",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 392,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "টেকনিক",
-    "word": "Technique",
-    "trick": "Technique"
+    "word": "Tendency",
+    "bangla_pronunciation": "টেন্ডেন্সি",
+    "bangla_meaning": "প্রবণতা",
+    "memory_trick": "Tendency",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 393,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "টেন্ডেন্সি",
-    "word": "Tendency",
-    "trick": "Tendency"
+    "word": "Theoretical",
+    "bangla_pronunciation": "থিওরেটিক্যাল",
+    "bangla_meaning": "তাত্ত্বিক",
+    "memory_trick": "Theoretical",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 394,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "থিওরেটিক্যাল",
-    "word": "Theoretical",
-    "trick": "Theoretical"
+    "word": "Tradition",
+    "bangla_pronunciation": "ট্রেডিশন",
+    "bangla_meaning": "ঐতিহ্য",
+    "memory_trick": "Tradition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 395,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ট্রেডিশন",
-    "word": "Tradition",
-    "trick": "Tradition"
+    "word": "Transformation",
+    "bangla_pronunciation": "ট্রান্সফরমেশন",
+    "bangla_meaning": "রূপান্তর",
+    "memory_trick": "Transformation",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 396,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ট্রান্সফরমেশন",
-    "word": "Transformation",
-    "trick": "Transformation"
+    "word": "Transition",
+    "bangla_pronunciation": "ট্রানজিশন",
+    "bangla_meaning": "রূপান্তর",
+    "memory_trick": "Transition",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 397,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ট্রানজিশন",
-    "word": "Transition",
-    "trick": "Transition"
+    "word": "Tremendous",
+    "bangla_pronunciation": "ট্রেমেন্ডাস",
+    "bangla_meaning": "অসাধারণ",
+    "memory_trick": "Tremendous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 398,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ট্রেমেন্ডাস",
-    "word": "Tremendous",
-    "trick": "Tremendous"
+    "word": "Unanimous",
+    "bangla_pronunciation": "ইউন্যানিমাস",
+    "bangla_meaning": "সর্বসম্মত",
+    "memory_trick": "Unanimous",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 399,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইউন্যানিমাস",
-    "word": "Unanimous",
-    "trick": "Unanimous"
+    "word": "Uncertainty",
+    "bangla_pronunciation": "আনসার্টেইনটি",
+    "bangla_meaning": "অনিশ্চয়তা",
+    "memory_trick": "Uncertainty",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 400,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আনসার্টেইনটি",
-    "word": "Uncertainty",
-    "trick": "Uncertainty"
+    "word": "Underestimate",
+    "bangla_pronunciation": "আন্ডারএস্টিমেট",
+    "bangla_meaning": "অবমূল্যায়ন",
+    "memory_trick": "Underestimate",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 401,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আন্ডারএস্টিমেট",
-    "word": "Underestimate",
-    "trick": "Underestimate"
+    "word": "Undertake",
+    "bangla_pronunciation": "আন্ডারটেক",
+    "bangla_meaning": "উদ্যোগ গ্রহণ করুন",
+    "memory_trick": "Undertake",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 402,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আন্ডারটেক",
-    "word": "Undertake",
-    "trick": "Undertake"
+    "word": "Uniformity",
+    "bangla_pronunciation": "ইউইউনিফরমিটি",
+    "bangla_meaning": "অভিন্নতা",
+    "memory_trick": "Uniformity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 403,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইউইউনিফরমিটি",
-    "word": "Uniformity",
-    "trick": "Uniformity"
+    "word": "Unprecedented",
+    "bangla_pronunciation": "আনপ্রেসিডেন্টেড",
+    "bangla_meaning": "অভূতপূর্ব",
+    "memory_trick": "Unprecedented",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 404,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "আনপ্রেসিডেন্টেড",
-    "word": "Unprecedented",
-    "trick": "Unprecedented"
+    "word": "Utilization",
+    "bangla_pronunciation": "ইউটিলাইজেশন",
+    "bangla_meaning": "ব্যবহার",
+    "memory_trick": "Utilization",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 405,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ইউটিলাইজেশন",
-    "word": "Utilization",
-    "trick": "Utilization"
+    "word": "Validity",
+    "bangla_pronunciation": "ভ্যালিডিটি",
+    "bangla_meaning": "বৈধতা",
+    "memory_trick": "Validity",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 406,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভ্যালিডিটি",
-    "word": "Validity",
-    "trick": "Validity"
+    "word": "Verification",
+    "bangla_pronunciation": "ভেরিফিকেশন",
+    "bangla_meaning": "যাচাইকরণ",
+    "memory_trick": "Verification",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 407,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভেরিফিকেশন",
-    "word": "Verification",
-    "trick": "Verification"
+    "word": "Versatile",
+    "bangla_pronunciation": "ভার্সাটাইল",
+    "bangla_meaning": "বহুমুখী",
+    "memory_trick": "Versatile",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 408,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভার্সাটাইল",
-    "word": "Versatile",
-    "trick": "Versatile"
+    "word": "Virtually",
+    "bangla_pronunciation": "ভার্চুয়ালি",
+    "bangla_meaning": "কার্যত",
+    "memory_trick": "Virtually",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 409,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভার্চুয়ালি",
-    "word": "Virtually",
-    "trick": "Virtually"
+    "word": "Vocabulary",
+    "bangla_pronunciation": "ভোকেবুলারি",
+    "bangla_meaning": "শব্দভান্ডার",
+    "memory_trick": "Vocabulary",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 410,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভোকেবুলারি",
-    "word": "Vocabulary",
-    "trick": "Vocabulary"
+    "word": "Vulnerability",
+    "bangla_pronunciation": "ভালনারেবিলিটি",
+    "bangla_meaning": "দুর্বলতা",
+    "memory_trick": "Vulnerability",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 411,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ভালনারেবিলিটি",
-    "word": "Vulnerability",
-    "trick": "Vulnerability"
+    "word": "Widespread",
+    "bangla_pronunciation": "ওয়াইডস্প্রেড",
+    "bangla_meaning": "ব্যাপক",
+    "memory_trick": "Widespread",
+    "mistake_count": 0,
+    "total_tries": 0
   },
   {
     "id": 412,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ওয়াইডস্প্রেড",
-    "word": "Widespread",
-    "trick": "Widespread"
-  },
-  {
-    "id": 413,
-    "category": "Common High-Frequency IELTS Words",
-    "bangla": "ফিল্ড / ইল্ড",
     "word": "Yield",
-    "trick": "Yield"
+    "bangla_pronunciation": "ইল্ড",
+    "bangla_meaning": "ফলন",
+    "memory_trick": "Yield",
+    "mistake_count": 0,
+    "total_tries": 0
   }
 ]

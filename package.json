@@ -1,0 +1,10 @@
+{
+  "name": "ielts-spelling-practice",
+  "version": "1.0.0",
+  "scripts": {
+    "build-words": "node merge.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.1"
+  }
+}

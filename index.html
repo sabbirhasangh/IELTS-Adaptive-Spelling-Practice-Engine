@@ -3,66 +3,92 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IELTS Adaptive Spelling Engine</title>
+  <title>IELTS Adaptive Spelling Practice</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container">
-    <header class="app-header">
-      <h1>IELTS Adaptive Spelling Practice</h1>
-      <p class="subtitle">10-Card Micro-Session • Spaced Repetition System</p>
-    </header>
 
-    <main class="card">
+  <header class="app-header">
+    <div class="logo-area">
+      <h1>IELTS Adaptive Practice</h1>
+      <span class="badge">Spaced Repetition</span>
+    </div>
+    <div class="header-actions">
+      <button id="open-log-btn" class="btn btn-secondary">
+        📊 View Master Log
+      </button>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <section class="practice-card">
       <div class="card-header">
-        <span class="badge" id="card-badge">Card 1/10</span>
-        <span class="score-badge" id="score-badge">Score: 0/0</span>
+        <h2>Batch Session (10 Words)</h2>
+        <p class="subtitle">Type the English spelling corresponding to each Bangla pronunciation hint.</p>
       </div>
 
-      <div class="card-body">
-        <h2 id="bangla-hint" class="bangla-hint">Loading hint...</h2>
-        
-        <form id="practice-form" autocomplete="off">
-          <div class="input-group">
-            <input 
-              type="text" 
-              id="user-input" 
-              placeholder="Type English spelling..." 
-              autofocus 
-              required
-            >
-            <button type="submit" id="submit-btn">Check</button>
-          </div>
-        </form>
-
-        <div id="feedback" class="feedback-box hidden"></div>
-        <div id="memory-trick" class="trick-box hidden"></div>
+      <div class="table-responsive">
+        <table class="practice-table">
+          <thead>
+            <tr>
+              <th style="width: 80px;">ID</th>
+              <th>Bangla Pronunciation (Hint)</th>
+              <th>Type Your Answer Here</th>
+              <th style="width: 140px;">Grading Result</th>
+            </tr>
+          </thead>
+          <tbody id="practice-rows">
+            <!-- 10 rows generated dynamically via app.js -->
+            <tr>
+              <td class="row-id">20</td>
+              <td class="hint-text">অ্যাডভান্টেজিয়াস</td>
+              <td><input type="text" class="input-field" placeholder="Type answer..."></td>
+              <td><span class="status-badge pending">Pending</span></td>
+            </tr>
+            <!-- Repeat for rows 2-10 -->
+          </tbody>
+        </table>
       </div>
 
-      <footer class="card-footer">
-        <button id="next-btn" class="secondary-btn hidden">Next Card →</button>
-        <button id="reset-session-btn" class="outline-btn">Complete & Pull New Cards</button>
-      </footer>
-    </main>
-
-    <!-- Master Log Metrics Overview -->
-    <section class="metrics-panel">
-      <h3>Master Log Statistics</h3>
-      <div class="metrics-grid">
-        <div class="metric-card">
-          <span class="metric-value" id="stat-total-words">0</span>
-          <span class="metric-label">Total Pool</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" id="stat-attempted">0</span>
-          <span class="metric-label">Attempted</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" id="stat-mistakes">0</span>
-          <span class="metric-label">Total Mistakes</span>
-        </div>
+      <div class="card-footer">
+        <button id="next-batch-btn" class="btn btn-primary btn-large">
+          NEXT BATCH ➔
+        </button>
       </div>
     </section>
+  </main>
+
+  <!-- MASTER LOG MODAL -->
+  <div id="log-modal" class="modal-overlay hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <h2>Master Log & Analytics</h2>
+          <p class="subtitle">Full dataset with priority scores and mistake tracking.</p>
+        </div>
+        <button id="close-log-btn" class="close-btn">&times;</button>
+      </div>
+
+      <div class="table-responsive modal-body">
+        <table class="master-table">
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Bangla Pronunciation</th>
+              <th>Correct Answer</th>
+              <th>Memory Trick / Breakdown</th>
+              <th>Mistake Count</th>
+              <th>Total Tries</th>
+              <th>Review Priority Score</th>
+            </tr>
+          </thead>
+          <tbody id="master-log-rows">
+            <!-- Populated from words.json via JS -->
+          </tbody>
+        </table>
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>
