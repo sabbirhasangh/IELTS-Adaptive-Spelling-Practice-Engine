@@ -1,0 +1,2893 @@
+[
+  {
+    "id": 1,
+    "category": "Health & Daily Life",
+    "bangla": "ডিজিজ",
+    "word": "Disease",
+    "trick": "Dis-ease(Ease-A state of being relaxed)"
+  },
+  {
+    "id": 2,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডেমোনস্ট্রেট",
+    "word": "Demonstrate",
+    "trick": "Demonstrate"
+  },
+  {
+    "id": 3,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সিস্টেন্স",
+    "word": "Existence",
+    "trick": "Existence"
+  },
+  {
+    "id": 4,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইমিডিয়েট",
+    "word": "Immediate",
+    "trick": "Immediate"
+  },
+  {
+    "id": 5,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রসপারিটি",
+    "word": "Prosperity",
+    "trick": "Prosperity"
+  },
+  {
+    "id": 6,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "উইথড্রয়াল",
+    "word": "Withdrawal",
+    "trick": "Withdrawal"
+  },
+  {
+    "id": 7,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এলিমিনেট",
+    "word": "Eliminate",
+    "trick": "Eliminate"
+  },
+  {
+    "id": 8,
+    "category": "Environment & Nature",
+    "bangla": "ওয়াইল্ডারনেস",
+    "word": "Wilderness",
+    "trick": "Wilderness"
+  },
+  {
+    "id": 9,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফান্ডামেন্টাল",
+    "word": "Fundamental",
+    "trick": "Fundamental"
+  },
+  {
+    "id": 10,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্যাটিস্ফ্যাকশন",
+    "word": "Satisfaction",
+    "trick": "Satisfaction"
+  },
+  {
+    "id": 11,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "টলারেন্স",
+    "word": "Tolerance",
+    "trick": "Tolerance"
+  },
+  {
+    "id": 12,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "জাজমেন্ট",
+    "word": "Judgment",
+    "trick": "Judgment"
+  },
+  {
+    "id": 13,
+    "category": "Travel & Places",
+    "bangla": "আইটিন্যারারি",
+    "word": "Itinerary",
+    "trick": "Itinerary"
+  },
+  {
+    "id": 14,
+    "category": "Health & Daily Life",
+    "bangla": "নিউট্রিশন",
+    "word": "Nutrition",
+    "trick": "Nutrition"
+  },
+  {
+    "id": 15,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভায়োলেশন",
+    "word": "Violation",
+    "trick": "Violation"
+  },
+  {
+    "id": 16,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পসিবিলিটি",
+    "word": "Possibility",
+    "trick": "Possibility"
+  },
+  {
+    "id": 17,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভ্যারিয়াবিলিটি",
+    "word": "Variability",
+    "trick": "Variability"
+  },
+  {
+    "id": 18,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাডভান্টেজিয়াস",
+    "word": "Advantageous",
+    "trick": "Advantageous"
+  },
+  {
+    "id": 19,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিদম",
+    "word": "Rhythm",
+    "trick": "Rhythm"
+  },
+  {
+    "id": 20,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাবস্টিটিউট",
+    "word": "Substitute",
+    "trick": "Substitute"
+  },
+  {
+    "id": 21,
+    "category": "Health & Daily Life",
+    "bangla": "লেজার",
+    "word": "Leisure",
+    "trick": "Leisure"
+  },
+  {
+    "id": 22,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনসেনটিভ",
+    "word": "Incentive",
+    "trick": "Incentive"
+  },
+  {
+    "id": 23,
+    "category": "Science & Tech",
+    "bangla": "ইলেকট্রিসিটি",
+    "word": "Electricity",
+    "trick": "Electricity"
+  },
+  {
+    "id": 24,
+    "category": "Society & Government",
+    "bangla": "সোসাইটি",
+    "word": "Society",
+    "trick": "Society"
+  },
+  {
+    "id": 25,
+    "category": "Society & Government",
+    "bangla": "বিজনেস",
+    "word": "Business",
+    "trick": "Business"
+  },
+  {
+    "id": 26,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্টিমুলেশন",
+    "word": "Stimulation",
+    "trick": "Stimulation"
+  },
+  {
+    "id": 27,
+    "category": "Academic & Education",
+    "bangla": "ডিগ্রি",
+    "word": "Degree",
+    "trick": "Degree"
+  },
+  {
+    "id": 28,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনট্রোভার্সিয়াল",
+    "word": "Controversial",
+    "trick": "Controversial"
+  },
+  {
+    "id": 29,
+    "category": "Academic & Education",
+    "bangla": "অডিটোরিয়াম",
+    "word": "Auditorium",
+    "trick": "Auditorium"
+  },
+  {
+    "id": 30,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কম্প্রিহেন্ড",
+    "word": "Comprehend",
+    "trick": "Comprehend"
+  },
+  {
+    "id": 31,
+    "category": "Travel & Places",
+    "bangla": "হোটেল",
+    "word": "Hotel",
+    "trick": "Hotel"
+  },
+  {
+    "id": 32,
+    "category": "Travel & Places",
+    "bangla": "ভেহিকেল",
+    "word": "Vehicle",
+    "trick": "Vehicle"
+  },
+  {
+    "id": 33,
+    "category": "Science & Tech",
+    "bangla": "ইলেকট্রনিক",
+    "word": "Electronic",
+    "trick": "Electronic"
+  },
+  {
+    "id": 34,
+    "category": "Academic & Education",
+    "bangla": "থিসিস",
+    "word": "Thesis",
+    "trick": "Thesis"
+  },
+  {
+    "id": 35,
+    "category": "Environment & Nature",
+    "bangla": "ডিফরেস্টেশন",
+    "word": "Deforestation",
+    "trick": "Deforestation"
+  },
+  {
+    "id": 36,
+    "category": "Academic & Education",
+    "bangla": "লেকচার",
+    "word": "Lecture",
+    "trick": "Lecture"
+  },
+  {
+    "id": 37,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অপটিমাম",
+    "word": "Optimum",
+    "trick": "Optimum"
+  },
+  {
+    "id": 38,
+    "category": "Time & Calendar",
+    "bangla": "ওয়েডনেসডে",
+    "word": "Wednesday",
+    "trick": "Wed-nes-day (Wed + nes + day)"
+  },
+  {
+    "id": 39,
+    "category": "Time & Calendar",
+    "bangla": "টিউসডে",
+    "word": "Tuesday",
+    "trick": "Tues-day"
+  },
+  {
+    "id": 40,
+    "category": "Time & Calendar",
+    "bangla": "ফেব্রুয়ারি",
+    "word": "February",
+    "trick": "Feb-ru-ary (Notice 'ru')"
+  },
+  {
+    "id": 41,
+    "category": "Time & Calendar",
+    "bangla": "আগস্ট",
+    "word": "August",
+    "trick": "Au-gust"
+  },
+  {
+    "id": 42,
+    "category": "Time & Calendar",
+    "bangla": "অটাম",
+    "word": "Autumn",
+    "trick": "Au-tumn (Notice silent 'n')"
+  },
+  {
+    "id": 43,
+    "category": "Time & Calendar",
+    "bangla": "ক্যালেন্ডার",
+    "word": "Calendar",
+    "trick": "Cal-en-dar (Watch 'dar' at end)"
+  },
+  {
+    "id": 44,
+    "category": "Time & Calendar",
+    "bangla": "শিডিউল / সেডিউল",
+    "word": "Schedule",
+    "trick": "Sche-dule (Sch sound)"
+  },
+  {
+    "id": 45,
+    "category": "Time & Calendar",
+    "bangla": "মিলেনিয়াম",
+    "word": "Millennium",
+    "trick": "Mil-len-ni-um (Double l, double n)"
+  },
+  {
+    "id": 46,
+    "category": "Time & Calendar",
+    "bangla": "সেঞ্চুরি",
+    "word": "Century",
+    "trick": "Century"
+  },
+  {
+    "id": 47,
+    "category": "Academic & Education",
+    "bangla": "একাডেমিক",
+    "word": "Academic",
+    "trick": "Ac-a-dem-ic"
+  },
+  {
+    "id": 48,
+    "category": "Academic & Education",
+    "bangla": "অ্যাসাইনমেন্ট",
+    "word": "Assignment",
+    "trick": "As-sign-ment (As + sign + ment)"
+  },
+  {
+    "id": 49,
+    "category": "Academic & Education",
+    "bangla": "সার্টিফিকেট",
+    "word": "Certificate",
+    "trick": "Certificate"
+  },
+  {
+    "id": 50,
+    "category": "Academic & Education",
+    "bangla": "কারিকুলাম",
+    "word": "Curriculum",
+    "trick": "Cur-ric-u-lum (Double r)"
+  },
+  {
+    "id": 51,
+    "category": "Academic & Education",
+    "bangla": "ডিপ্লোমা",
+    "word": "Diploma",
+    "trick": "Diploma"
+  },
+  {
+    "id": 52,
+    "category": "Academic & Education",
+    "bangla": "ডিসারটেশন",
+    "word": "Dissertation",
+    "trick": "Dis-ser-ta-tion (Double s)"
+  },
+  {
+    "id": 53,
+    "category": "Academic & Education",
+    "bangla": "এডুকেশন",
+    "word": "Education",
+    "trick": "Education"
+  },
+  {
+    "id": 54,
+    "category": "Academic & Education",
+    "bangla": "ফ্যাকাল্টি",
+    "word": "Faculty",
+    "trick": "Faculty"
+  },
+  {
+    "id": 55,
+    "category": "Academic & Education",
+    "bangla": "ল্যাবরেটরি",
+    "word": "Laboratory",
+    "trick": "Laboratory"
+  },
+  {
+    "id": 56,
+    "category": "Academic & Education",
+    "bangla": "লাইব্রেরি",
+    "word": "Library",
+    "trick": "Library"
+  },
+  {
+    "id": 57,
+    "category": "Academic & Education",
+    "bangla": "প্রফেসর",
+    "word": "Professor",
+    "trick": "Pro-fes-sor (1 f, 2 s's)"
+  },
+  {
+    "id": 58,
+    "category": "Academic & Education",
+    "bangla": "কোয়ালিফিকেশন",
+    "word": "Qualification",
+    "trick": "Qualification"
+  },
+  {
+    "id": 59,
+    "category": "Academic & Education",
+    "bangla": "রিসার্চ",
+    "word": "Research",
+    "trick": "Research"
+  },
+  {
+    "id": 60,
+    "category": "Academic & Education",
+    "bangla": "স্কলারশিপ",
+    "word": "Scholarship",
+    "trick": "Scholarship"
+  },
+  {
+    "id": 61,
+    "category": "Academic & Education",
+    "bangla": "সেমিস্টার",
+    "word": "Semester",
+    "trick": "Semester"
+  },
+  {
+    "id": 62,
+    "category": "Academic & Education",
+    "bangla": "টিউটর",
+    "word": "Tutor",
+    "trick": "Tutor"
+  },
+  {
+    "id": 63,
+    "category": "Academic & Education",
+    "bangla": "ইউনিভার্সিটি",
+    "word": "University",
+    "trick": "University"
+  },
+  {
+    "id": 64,
+    "category": "Academic & Education",
+    "bangla": "ক্যাম্পাস",
+    "word": "Campus",
+    "trick": "Campus"
+  },
+  {
+    "id": 65,
+    "category": "Academic & Education",
+    "bangla": "টিউশন",
+    "word": "Tuition",
+    "trick": "Tuition"
+  },
+  {
+    "id": 66,
+    "category": "Academic & Education",
+    "bangla": "প্লেজিয়ারিজম",
+    "word": "Plagiarism",
+    "trick": "Plagiarism"
+  },
+  {
+    "id": 67,
+    "category": "Academic & Education",
+    "bangla": "অ্যাসেসমেন্ট",
+    "word": "Assessment",
+    "trick": "Assessment"
+  },
+  {
+    "id": 68,
+    "category": "Academic & Education",
+    "bangla": "মেথডোলজি",
+    "word": "Methodology",
+    "trick": "Methodology"
+  },
+  {
+    "id": 69,
+    "category": "Academic & Education",
+    "bangla": "পেডাগোজি",
+    "word": "Pedagogy",
+    "trick": "Pedagogy"
+  },
+  {
+    "id": 70,
+    "category": "Academic & Education",
+    "bangla": "লিটারেসি",
+    "word": "Literacy",
+    "trick": "Literacy"
+  },
+  {
+    "id": 71,
+    "category": "Academic & Education",
+    "bangla": "ডিসিপ্লিন",
+    "word": "Discipline",
+    "trick": "Discipline"
+  },
+  {
+    "id": 72,
+    "category": "Academic & Education",
+    "bangla": "নলেজ",
+    "word": "Knowledge",
+    "trick": "Knowledge"
+  },
+  {
+    "id": 73,
+    "category": "Environment & Nature",
+    "bangla": "এনভায়রনমেন্ট",
+    "word": "Environment",
+    "trick": "En-vi-ron-ment (Notice hidden 'ron')"
+  },
+  {
+    "id": 74,
+    "category": "Environment & Nature",
+    "bangla": "এগ্রিকালচার",
+    "word": "Agriculture",
+    "trick": "Agriculture"
+  },
+  {
+    "id": 75,
+    "category": "Environment & Nature",
+    "bangla": "অ্যাটমোস্ফিয়ার",
+    "word": "Atmosphere",
+    "trick": "Atmosphere"
+  },
+  {
+    "id": 76,
+    "category": "Environment & Nature",
+    "bangla": "বায়োডাইভারসিটি",
+    "word": "Biodiversity",
+    "trick": "Biodiversity"
+  },
+  {
+    "id": 77,
+    "category": "Environment & Nature",
+    "bangla": "ক্লাইমেট",
+    "word": "Climate",
+    "trick": "Climate"
+  },
+  {
+    "id": 78,
+    "category": "Environment & Nature",
+    "bangla": "কনজারভেশন",
+    "word": "Conservation",
+    "trick": "Conservation"
+  },
+  {
+    "id": 79,
+    "category": "Environment & Nature",
+    "bangla": "ইকোসিস্টেম",
+    "word": "Ecosystem",
+    "trick": "Ecosystem"
+  },
+  {
+    "id": 80,
+    "category": "Environment & Nature",
+    "bangla": "জিওগ্রাফিক্যাল",
+    "word": "Geographical",
+    "trick": "Geographical"
+  },
+  {
+    "id": 81,
+    "category": "Environment & Nature",
+    "bangla": "পলিউশন",
+    "word": "Pollution",
+    "trick": "Pollution"
+  },
+  {
+    "id": 82,
+    "category": "Environment & Nature",
+    "bangla": "রিসাইক্লিং",
+    "word": "Recycling",
+    "trick": "Recycling"
+  },
+  {
+    "id": 83,
+    "category": "Environment & Nature",
+    "bangla": "টেম্পারেচার",
+    "word": "Temperature",
+    "trick": "Temperature"
+  },
+  {
+    "id": 84,
+    "category": "Environment & Nature",
+    "bangla": "ভেজিটেশন",
+    "word": "Vegetation",
+    "trick": "Vegetation"
+  },
+  {
+    "id": 85,
+    "category": "Environment & Nature",
+    "bangla": "ওয়েদার",
+    "word": "Weather",
+    "trick": "Weather"
+  },
+  {
+    "id": 86,
+    "category": "Environment & Nature",
+    "bangla": "ক্যাটাস্ট্রোফি",
+    "word": "Catastrophe",
+    "trick": "Catastrophe"
+  },
+  {
+    "id": 87,
+    "category": "Environment & Nature",
+    "bangla": "হারিকেন",
+    "word": "Hurricane",
+    "trick": "Hurricane"
+  },
+  {
+    "id": 88,
+    "category": "Environment & Nature",
+    "bangla": "আর্থকোয়েক",
+    "word": "Earthquake",
+    "trick": "Earthquake"
+  },
+  {
+    "id": 89,
+    "category": "Environment & Nature",
+    "bangla": "কনটামিনেশন",
+    "word": "Contamination",
+    "trick": "Contamination"
+  },
+  {
+    "id": 90,
+    "category": "Environment & Nature",
+    "bangla": "ইরোশন",
+    "word": "Erosion",
+    "trick": "Erosion"
+  },
+  {
+    "id": 91,
+    "category": "Environment & Nature",
+    "bangla": "গ্লোবাল",
+    "word": "Global",
+    "trick": "Global"
+  },
+  {
+    "id": 92,
+    "category": "Environment & Nature",
+    "bangla": "গ্লেশিয়ার",
+    "word": "Glacier",
+    "trick": "Glacier"
+  },
+  {
+    "id": 93,
+    "category": "Environment & Nature",
+    "bangla": "প্রিজারভেশন",
+    "word": "Preservation",
+    "trick": "Preservation"
+  },
+  {
+    "id": 94,
+    "category": "Environment & Nature",
+    "bangla": "সাসটেইনেবিলিটি",
+    "word": "Sustainability",
+    "trick": "Sustainability"
+  },
+  {
+    "id": 95,
+    "category": "Environment & Nature",
+    "bangla": "টক্সিক",
+    "word": "Toxic",
+    "trick": "Toxic"
+  },
+  {
+    "id": 96,
+    "category": "Travel & Places",
+    "bangla": "অ্যাকোমোডেশন",
+    "word": "Accommodation",
+    "trick": "Ac-com-mo-da-tion (2 c's, 2 m's)"
+  },
+  {
+    "id": 97,
+    "category": "Travel & Places",
+    "bangla": "অ্যাপার্টমেন্ট",
+    "word": "Apartment",
+    "trick": "Apartment"
+  },
+  {
+    "id": 98,
+    "category": "Travel & Places",
+    "bangla": "ডেস্টিনেশন",
+    "word": "Destination",
+    "trick": "Destination"
+  },
+  {
+    "id": 99,
+    "category": "Travel & Places",
+    "bangla": "এক্সকারশন",
+    "word": "Excursion",
+    "trick": "Excursion"
+  },
+  {
+    "id": 100,
+    "category": "Travel & Places",
+    "bangla": "ফ্যাসিলিটি",
+    "word": "Facility",
+    "trick": "Facility"
+  },
+  {
+    "id": 101,
+    "category": "Travel & Places",
+    "bangla": "লোকেশন",
+    "word": "Location",
+    "trick": "Location"
+  },
+  {
+    "id": 102,
+    "category": "Travel & Places",
+    "bangla": "প্যাসেঞ্জার",
+    "word": "Passenger",
+    "trick": "Passenger"
+  },
+  {
+    "id": 103,
+    "category": "Travel & Places",
+    "bangla": "পাসপোর্ট",
+    "word": "Passport",
+    "trick": "Passport"
+  },
+  {
+    "id": 104,
+    "category": "Travel & Places",
+    "bangla": "রিজারভেশন",
+    "word": "Reservation",
+    "trick": "Reservation"
+  },
+  {
+    "id": 105,
+    "category": "Travel & Places",
+    "bangla": "রেস্টুরেন্ট",
+    "word": "Restaurant",
+    "trick": "Res-tau-rant (Watch 'tau')"
+  },
+  {
+    "id": 106,
+    "category": "Travel & Places",
+    "bangla": "ট্যুরিজম",
+    "word": "Tourism",
+    "trick": "Tourism"
+  },
+  {
+    "id": 107,
+    "category": "Travel & Places",
+    "bangla": "ট্রান্সপোর্টেশন",
+    "word": "Transportation",
+    "trick": "Transportation"
+  },
+  {
+    "id": 108,
+    "category": "Travel & Places",
+    "bangla": "লাগেজ",
+    "word": "Luggage",
+    "trick": "Luggage"
+  },
+  {
+    "id": 109,
+    "category": "Travel & Places",
+    "bangla": "ব্যাগেজ",
+    "word": "Baggage",
+    "trick": "Baggage"
+  },
+  {
+    "id": 110,
+    "category": "Travel & Places",
+    "bangla": "সুভেনির",
+    "word": "Souvenir",
+    "trick": "Souvenir"
+  },
+  {
+    "id": 111,
+    "category": "Travel & Places",
+    "bangla": "ডিপার্চার",
+    "word": "Departure",
+    "trick": "Departure"
+  },
+  {
+    "id": 112,
+    "category": "Travel & Places",
+    "bangla": "অ্যারাইভাল",
+    "word": "Arrival",
+    "trick": "Arrival"
+  },
+  {
+    "id": 113,
+    "category": "Travel & Places",
+    "bangla": "জার্নি",
+    "word": "Journey",
+    "trick": "Journey"
+  },
+  {
+    "id": 114,
+    "category": "Travel & Places",
+    "bangla": "টার্মিনাল",
+    "word": "Terminal",
+    "trick": "Terminal"
+  },
+  {
+    "id": 115,
+    "category": "Travel & Places",
+    "bangla": "এক্সপেডিশন",
+    "word": "Expedition",
+    "trick": "Expedition"
+  },
+  {
+    "id": 116,
+    "category": "Travel & Places",
+    "bangla": "আর্কিটেকচার",
+    "word": "Architecture",
+    "trick": "Architecture"
+  },
+  {
+    "id": 117,
+    "category": "Travel & Places",
+    "bangla": "সাইটস",
+    "word": "Sights",
+    "trick": "Sights"
+  },
+  {
+    "id": 118,
+    "category": "Society & Government",
+    "bangla": "গভর্নমেন্ট",
+    "word": "Government",
+    "trick": "Gov-ern-ment (Notice hidden 'ern')"
+  },
+  {
+    "id": 119,
+    "category": "Society & Government",
+    "bangla": "অ্যাডমিনিস্ট্রেশন",
+    "word": "Administration",
+    "trick": "Administration"
+  },
+  {
+    "id": 120,
+    "category": "Society & Government",
+    "bangla": "অথরিটি",
+    "word": "Authority",
+    "trick": "Authority"
+  },
+  {
+    "id": 121,
+    "category": "Society & Government",
+    "bangla": "কমার্শিয়াল",
+    "word": "Commercial",
+    "trick": "Commercial"
+  },
+  {
+    "id": 122,
+    "category": "Society & Government",
+    "bangla": "কমিউনিটি",
+    "word": "Community",
+    "trick": "Community"
+  },
+  {
+    "id": 123,
+    "category": "Society & Government",
+    "bangla": "ইকোনমি",
+    "word": "Economy",
+    "trick": "Economy"
+  },
+  {
+    "id": 124,
+    "category": "Society & Government",
+    "bangla": "এমপ্লয়মেন্ট",
+    "word": "Employment",
+    "trick": "Employment"
+  },
+  {
+    "id": 125,
+    "category": "Society & Government",
+    "bangla": "ফাইন্যান্সিয়াল",
+    "word": "Financial",
+    "trick": "Financial"
+  },
+  {
+    "id": 126,
+    "category": "Society & Government",
+    "bangla": "ইন্ডাস্ট্রি",
+    "word": "Industry",
+    "trick": "Industry"
+  },
+  {
+    "id": 127,
+    "category": "Society & Government",
+    "bangla": "ম্যানেজমেন্ট",
+    "word": "Management",
+    "trick": "Management"
+  },
+  {
+    "id": 128,
+    "category": "Society & Government",
+    "bangla": "অর্গানাইজেশন",
+    "word": "Organisation",
+    "trick": "Organisation"
+  },
+  {
+    "id": 129,
+    "category": "Society & Government",
+    "bangla": "পার্লামেন্ট",
+    "word": "Parliament",
+    "trick": "Parliament"
+  },
+  {
+    "id": 130,
+    "category": "Society & Government",
+    "bangla": "পলিসি",
+    "word": "Policy",
+    "trick": "Policy"
+  },
+  {
+    "id": 131,
+    "category": "Society & Government",
+    "bangla": "ব্যুরোক্রেসি",
+    "word": "Bureaucracy",
+    "trick": "Bureaucracy"
+  },
+  {
+    "id": 132,
+    "category": "Society & Government",
+    "bangla": "ডেমোক্রেসি",
+    "word": "Democracy",
+    "trick": "Democracy"
+  },
+  {
+    "id": 133,
+    "category": "Society & Government",
+    "bangla": "লেজিসলেশন",
+    "word": "Legislation",
+    "trick": "Legislation"
+  },
+  {
+    "id": 134,
+    "category": "Society & Government",
+    "bangla": "ট্যাক্সেশন",
+    "word": "Taxation",
+    "trick": "Taxation"
+  },
+  {
+    "id": 135,
+    "category": "Society & Government",
+    "bangla": "করপোরেশন",
+    "word": "Corporation",
+    "trick": "Corporation"
+  },
+  {
+    "id": 136,
+    "category": "Society & Government",
+    "bangla": "ইনফ্লেশন",
+    "word": "Inflation",
+    "trick": "Inflation"
+  },
+  {
+    "id": 137,
+    "category": "Society & Government",
+    "bangla": "ইনভেস্টমেন্ট",
+    "word": "Investment",
+    "trick": "Investment"
+  },
+  {
+    "id": 138,
+    "category": "Society & Government",
+    "bangla": "পপুলেশন",
+    "word": "Population",
+    "trick": "Population"
+  },
+  {
+    "id": 139,
+    "category": "Society & Government",
+    "bangla": "ওয়েলফেয়ার",
+    "word": "Welfare",
+    "trick": "Welfare"
+  },
+  {
+    "id": 140,
+    "category": "Society & Government",
+    "bangla": "ইনফ্রাস্ট্রাকচার",
+    "word": "Infrastructure",
+    "trick": "Infrastructure"
+  },
+  {
+    "id": 141,
+    "category": "Health & Daily Life",
+    "bangla": "অ্যাক্টিভিটি",
+    "word": "Activity",
+    "trick": "Activity"
+  },
+  {
+    "id": 142,
+    "category": "Health & Daily Life",
+    "bangla": "এন্টারটেইনমেন্ট",
+    "word": "Entertainment",
+    "trick": "Entertainment"
+  },
+  {
+    "id": 143,
+    "category": "Health & Daily Life",
+    "bangla": "এক্সারসাইজ",
+    "word": "Exercise",
+    "trick": "Exercise"
+  },
+  {
+    "id": 144,
+    "category": "Health & Daily Life",
+    "bangla": "হাসপাতাল / হসপিটাল",
+    "word": "Hospital",
+    "trick": "Hospital"
+  },
+  {
+    "id": 145,
+    "category": "Health & Daily Life",
+    "bangla": "লাইফস্টাইল",
+    "word": "Lifestyle",
+    "trick": "Lifestyle"
+  },
+  {
+    "id": 146,
+    "category": "Health & Daily Life",
+    "bangla": "মেডিসিন",
+    "word": "Medicine",
+    "trick": "Medicine"
+  },
+  {
+    "id": 147,
+    "category": "Health & Daily Life",
+    "bangla": "অকুপেশন",
+    "word": "Occupation",
+    "trick": "Occupation"
+  },
+  {
+    "id": 148,
+    "category": "Health & Daily Life",
+    "bangla": "ভেজিটেবল",
+    "word": "Vegetable",
+    "trick": "Vegetable"
+  },
+  {
+    "id": 149,
+    "category": "Health & Daily Life",
+    "bangla": "সিম্পটম",
+    "word": "Symptom",
+    "trick": "Symptom"
+  },
+  {
+    "id": 150,
+    "category": "Health & Daily Life",
+    "bangla": "প্রেসক্রিপশন",
+    "word": "Prescription",
+    "trick": "Prescription"
+  },
+  {
+    "id": 151,
+    "category": "Health & Daily Life",
+    "bangla": "ফিজিশিয়ান",
+    "word": "Physician",
+    "trick": "Physician"
+  },
+  {
+    "id": 152,
+    "category": "Health & Daily Life",
+    "bangla": "সাইকোলজি",
+    "word": "Psychology",
+    "trick": "Psychology"
+  },
+  {
+    "id": 153,
+    "category": "Health & Daily Life",
+    "bangla": "ট্রিটমেন্ট",
+    "word": "Treatment",
+    "trick": "Treatment"
+  },
+  {
+    "id": 154,
+    "category": "Health & Daily Life",
+    "bangla": "হাইজিন",
+    "word": "Hygiene",
+    "trick": "Hygiene"
+  },
+  {
+    "id": 155,
+    "category": "Health & Daily Life",
+    "bangla": "ক্যালোরি",
+    "word": "Calorie",
+    "trick": "Calorie"
+  },
+  {
+    "id": 156,
+    "category": "Health & Daily Life",
+    "bangla": "পেশেন্ট",
+    "word": "Patient",
+    "trick": "Patient"
+  },
+  {
+    "id": 157,
+    "category": "Health & Daily Life",
+    "bangla": "ইমারজেন্সি",
+    "word": "Emergency",
+    "trick": "Emergency"
+  },
+  {
+    "id": 158,
+    "category": "Science & Tech",
+    "bangla": "টেকনোলজি",
+    "word": "Technology",
+    "trick": "Technology"
+  },
+  {
+    "id": 159,
+    "category": "Science & Tech",
+    "bangla": "কম্পিউটার",
+    "word": "Computer",
+    "trick": "Computer"
+  },
+  {
+    "id": 160,
+    "category": "Science & Tech",
+    "bangla": "সফটওয়্যার",
+    "word": "Software",
+    "trick": "Software"
+  },
+  {
+    "id": 161,
+    "category": "Science & Tech",
+    "bangla": "হার্ডওয়্যার",
+    "word": "Hardware",
+    "trick": "Hardware"
+  },
+  {
+    "id": 162,
+    "category": "Science & Tech",
+    "bangla": "ডেটাবেস",
+    "word": "Database",
+    "trick": "Database"
+  },
+  {
+    "id": 163,
+    "category": "Science & Tech",
+    "bangla": "অ্যালগোরিদম",
+    "word": "Algorithm",
+    "trick": "Algorithm"
+  },
+  {
+    "id": 164,
+    "category": "Science & Tech",
+    "bangla": "আর্টিফিশিয়াল",
+    "word": "Artificial",
+    "trick": "Artificial"
+  },
+  {
+    "id": 165,
+    "category": "Science & Tech",
+    "bangla": "ইন্টেলিজেন্স",
+    "word": "Intelligence",
+    "trick": "Intelligence"
+  },
+  {
+    "id": 166,
+    "category": "Science & Tech",
+    "bangla": "ইনোভেশন",
+    "word": "Innovation",
+    "trick": "Innovation"
+  },
+  {
+    "id": 167,
+    "category": "Science & Tech",
+    "bangla": "এক্সপেরিমেন্ট",
+    "word": "Experiment",
+    "trick": "Experiment"
+  },
+  {
+    "id": 168,
+    "category": "Science & Tech",
+    "bangla": "ল্যাবরেটরি",
+    "word": "Laboratory",
+    "trick": "Laboratory"
+  },
+  {
+    "id": 169,
+    "category": "Science & Tech",
+    "bangla": "হাইপোথিসিস",
+    "word": "Hypothesis",
+    "trick": "Hypothesis"
+  },
+  {
+    "id": 170,
+    "category": "Science & Tech",
+    "bangla": "ডিজিটাল",
+    "word": "Digital",
+    "trick": "Digital"
+  },
+  {
+    "id": 171,
+    "category": "Science & Tech",
+    "bangla": "অটোমেটেড",
+    "word": "Automated",
+    "trick": "Automated"
+  },
+  {
+    "id": 172,
+    "category": "Science & Tech",
+    "bangla": "টেলিকমিউনিকেশন",
+    "word": "Telecommunication",
+    "trick": "Telecommunication"
+  },
+  {
+    "id": 173,
+    "category": "Science & Tech",
+    "bangla": "ইঞ্জিনিয়ারিং",
+    "word": "Engineering",
+    "trick": "Engineering"
+  },
+  {
+    "id": 174,
+    "category": "Science & Tech",
+    "bangla": "মেকানিক্স",
+    "word": "Mechanics",
+    "trick": "Mechanics"
+  },
+  {
+    "id": 175,
+    "category": "Science & Tech",
+    "bangla": "সাইন্টিফিক",
+    "word": "Scientific",
+    "trick": "Scientific"
+  },
+  {
+    "id": 176,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাচিভ",
+    "word": "Achieve",
+    "trick": "Achieve"
+  },
+  {
+    "id": 177,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যানালাইজ",
+    "word": "Analyze",
+    "trick": "Analyze"
+  },
+  {
+    "id": 178,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাপ্যারেন্ট",
+    "word": "Apparent",
+    "trick": "Apparent"
+  },
+  {
+    "id": 179,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আর্গুমেন্ট",
+    "word": "Argument",
+    "trick": "Argument"
+  },
+  {
+    "id": 180,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "বিউটিফুল",
+    "word": "Beautiful",
+    "trick": "Beautiful"
+  },
+  {
+    "id": 181,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "বিগিনিং",
+    "word": "Beginning",
+    "trick": "Beginning"
+  },
+  {
+    "id": 182,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "বিলিভ",
+    "word": "Believe",
+    "trick": "Be-lieve (i before e)"
+  },
+  {
+    "id": 183,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্যাটাগরি",
+    "word": "Category",
+    "trick": "Category"
+  },
+  {
+    "id": 184,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কমিটি",
+    "word": "Committee",
+    "trick": "Com-mit-tee (2 m's, 2 t's, 2 e's)"
+  },
+  {
+    "id": 185,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডেফিনিট",
+    "word": "Definite",
+    "trick": "De-fi-nite (Watch 'i' not 'a')"
+  },
+  {
+    "id": 186,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডেভেলপমেন্ট",
+    "word": "Development",
+    "trick": "Development"
+  },
+  {
+    "id": 187,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিফারেন্স",
+    "word": "Difference",
+    "trick": "Difference"
+  },
+  {
+    "id": 188,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এম্ব্যারাস",
+    "word": "Embarrass",
+    "trick": "Em-bar-rass (2 r's, 2 s's)"
+  },
+  {
+    "id": 189,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফরেন",
+    "word": "Foreign",
+    "trick": "Foreign"
+  },
+  {
+    "id": 190,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "গ্যারান্টি",
+    "word": "Guarantee",
+    "trick": "Guar-an-tee (Watch 'ua')"
+  },
+  {
+    "id": 191,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনডিপেন্ডেন্ট",
+    "word": "Independent",
+    "trick": "Independent"
+  },
+  {
+    "id": 192,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "মেইনটেন্যান্স",
+    "word": "Maintenance",
+    "trick": "Maintenance"
+  },
+  {
+    "id": 193,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "নেসেসারি",
+    "word": "Necessary",
+    "trick": "Ne-ces-sa-ry (1 c, 2 s's)"
+  },
+  {
+    "id": 194,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ওকেশন",
+    "word": "Occasion",
+    "trick": "Occasion"
+  },
+  {
+    "id": 195,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অপরচুনিটি",
+    "word": "Opportunity",
+    "trick": "Op-por-tu-ni-ty (2 p's)"
+  },
+  {
+    "id": 196,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রিভিলেজ",
+    "word": "Privilege",
+    "trick": "Privilege"
+  },
+  {
+    "id": 197,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিসিভ",
+    "word": "Receive",
+    "trick": "Re-ceive (e before i after c)"
+  },
+  {
+    "id": 198,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেকমান্ড",
+    "word": "Recommend",
+    "trick": "Recommend"
+  },
+  {
+    "id": 199,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সেপারেট",
+    "word": "Separate",
+    "trick": "Sep-A-rate (a rat in separate)"
+  },
+  {
+    "id": 200,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাকসেসফুল",
+    "word": "Successful",
+    "trick": "Suc-cess-ful (2 c's, 2 s's, 1 l)"
+  },
+  {
+    "id": 201,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "টুমরো",
+    "word": "Tomorrow",
+    "trick": "Tomorrow"
+  },
+  {
+    "id": 202,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আনফরচুনেটলি",
+    "word": "Unfortunately",
+    "trick": "Unfortunately"
+  },
+  {
+    "id": 203,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাবসেন্স",
+    "word": "Absence",
+    "trick": "Absence"
+  },
+  {
+    "id": 204,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাবান্ড্যান্ট",
+    "word": "Abundant",
+    "trick": "Abundant"
+  },
+  {
+    "id": 205,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাকসেপ্টেবল",
+    "word": "Acceptable",
+    "trick": "Acceptable"
+  },
+  {
+    "id": 206,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাকসিডেন্টালি",
+    "word": "Accidentally",
+    "trick": "Accidentally"
+  },
+  {
+    "id": 207,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাকোয়ার",
+    "word": "Acquire",
+    "trick": "Acquire"
+  },
+  {
+    "id": 208,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাডাপ্টেশন",
+    "word": "Adaptation",
+    "trick": "Adaptation"
+  },
+  {
+    "id": 209,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাডিকেওয়েট",
+    "word": "Adequate",
+    "trick": "Adequate"
+  },
+  {
+    "id": 210,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাডজাসент",
+    "word": "Adjacent",
+    "trick": "Adjacent"
+  },
+  {
+    "id": 211,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাগ্রেসিভ",
+    "word": "Aggressive",
+    "trick": "Aggressive"
+  },
+  {
+    "id": 212,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অল্টারনেটিভ",
+    "word": "Alternative",
+    "trick": "Alternative"
+  },
+  {
+    "id": 213,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাম্বিগুয়াস",
+    "word": "Ambiguous",
+    "trick": "Ambiguous"
+  },
+  {
+    "id": 214,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যানালাইসিস",
+    "word": "Analysis",
+    "trick": "Analysis"
+  },
+  {
+    "id": 215,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাপ্রিশিয়েট",
+    "word": "Appreciate",
+    "trick": "Appreciate"
+  },
+  {
+    "id": 216,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাপ্রোপ্রিয়েট",
+    "word": "Appropriate",
+    "trick": "Appropriate"
+  },
+  {
+    "id": 217,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাপ্রোক্সিমেট",
+    "word": "Approximate",
+    "trick": "Approximate"
+  },
+  {
+    "id": 218,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাসোসিয়েশন",
+    "word": "Association",
+    "trick": "Association"
+  },
+  {
+    "id": 219,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাসাম্পশন",
+    "word": "Assumption",
+    "trick": "Assumption"
+  },
+  {
+    "id": 220,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাটিটিউড",
+    "word": "Attitude",
+    "trick": "Attitude"
+  },
+  {
+    "id": 221,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাট্রিবিউট",
+    "word": "Attribute",
+    "trick": "Attribute"
+  },
+  {
+    "id": 222,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অ্যাভেইলএবল",
+    "word": "Available",
+    "trick": "Available"
+  },
+  {
+    "id": 223,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "বেনিফিশিয়াল",
+    "word": "Beneficial",
+    "trick": "Beneficial"
+  },
+  {
+    "id": 224,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "বাউন্ডারি",
+    "word": "Boundary",
+    "trick": "Boundary"
+  },
+  {
+    "id": 225,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্যাপাসিটি",
+    "word": "Capacity",
+    "trick": "Capacity"
+  },
+  {
+    "id": 226,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "চ্যালেঞ্জ",
+    "word": "Challenge",
+    "trick": "Challenge"
+  },
+  {
+    "id": 227,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্যারেক্টারিস্টিক",
+    "word": "Characteristic",
+    "trick": "Characteristic"
+  },
+  {
+    "id": 228,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সারকামস্ট্যান্স",
+    "word": "Circumstance",
+    "trick": "Circumstance"
+  },
+  {
+    "id": 229,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কয়েনসিডেন্স",
+    "word": "Coincidence",
+    "trick": "Coincidence"
+  },
+  {
+    "id": 230,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কোলাবোরেশন",
+    "word": "Collaboration",
+    "trick": "Collaboration"
+  },
+  {
+    "id": 231,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কলিগ",
+    "word": "Colleague",
+    "trick": "Colleague"
+  },
+  {
+    "id": 232,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কম্বিনেশন",
+    "word": "Combination",
+    "trick": "Combination"
+  },
+  {
+    "id": 233,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কমিটমেন্ট",
+    "word": "Commitment",
+    "trick": "Commitment"
+  },
+  {
+    "id": 234,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কমপ্যারেটিভ",
+    "word": "Comparative",
+    "trick": "Comparative"
+  },
+  {
+    "id": 235,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কম্পেনসেট",
+    "word": "Compensate",
+    "trick": "Compensate"
+  },
+  {
+    "id": 236,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কম্পিটেন্ট",
+    "word": "Competent",
+    "trick": "Competent"
+  },
+  {
+    "id": 237,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কম্প্রিহেনসিভ",
+    "word": "Comprehensive",
+    "trick": "Comprehensive"
+  },
+  {
+    "id": 238,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনসিভ",
+    "word": "Conceive",
+    "trick": "Conceive"
+  },
+  {
+    "id": 239,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনসেন্ট্রেট",
+    "word": "Concentrate",
+    "trick": "Concentrate"
+  },
+  {
+    "id": 240,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনসিকোয়েন্স",
+    "word": "Consequence",
+    "trick": "Consequence"
+  },
+  {
+    "id": 241,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনসিডারেবল",
+    "word": "Considerable",
+    "trick": "Considerable"
+  },
+  {
+    "id": 242,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনসিস্টেন্ট",
+    "word": "Consistent",
+    "trick": "Consistent"
+  },
+  {
+    "id": 243,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনস্টিটিউয়েন্ট",
+    "word": "Constituent",
+    "trick": "Constituent"
+  },
+  {
+    "id": 244,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনটেম্পোরারি",
+    "word": "Contemporary",
+    "trick": "Contemporary"
+  },
+  {
+    "id": 245,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কন্টিনিউয়াস",
+    "word": "Continuous",
+    "trick": "Continuous"
+  },
+  {
+    "id": 246,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনট্রাডিকশন",
+    "word": "Contradiction",
+    "trick": "Contradiction"
+  },
+  {
+    "id": 247,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কন্ট্রিবিউশন",
+    "word": "Contribution",
+    "trick": "Contribution"
+  },
+  {
+    "id": 248,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কনভিনিয়েন্ট",
+    "word": "Convenient",
+    "trick": "Convenient"
+  },
+  {
+    "id": 249,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কোরিলেশন",
+    "word": "Correlation",
+    "trick": "Correlation"
+  },
+  {
+    "id": 250,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্রাইটেরিয়া",
+    "word": "Criteria",
+    "trick": "Criteria"
+  },
+  {
+    "id": 251,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্রিটিক্যাল",
+    "word": "Critical",
+    "trick": "Critical"
+  },
+  {
+    "id": 252,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ক্রুশিয়াল",
+    "word": "Crucial",
+    "trick": "Crucial"
+  },
+  {
+    "id": 253,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কিউমুলেটিভ",
+    "word": "Cumulative",
+    "trick": "Cumulative"
+  },
+  {
+    "id": 254,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কিউরিওসিটি",
+    "word": "Curiosity",
+    "trick": "Curiosity"
+  },
+  {
+    "id": 255,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডেফিসিয়েন্সি",
+    "word": "Deficiency",
+    "trick": "Deficiency"
+  },
+  {
+    "id": 256,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিপেন্ডেন্ট",
+    "word": "Dependent",
+    "trick": "Dependent"
+  },
+  {
+    "id": 257,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডেসক্রিপশন",
+    "word": "Description",
+    "trick": "Description"
+  },
+  {
+    "id": 258,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিজায়ারেবল",
+    "word": "Desirable",
+    "trick": "Desirable"
+  },
+  {
+    "id": 259,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিটেরিওরেট",
+    "word": "Deteriorate",
+    "trick": "Deteriorate"
+  },
+  {
+    "id": 260,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডাইমেনশন",
+    "word": "Dimension",
+    "trick": "Dimension"
+  },
+  {
+    "id": 261,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিসঅ্যাপয়েন্ট",
+    "word": "Disappoint",
+    "trick": "Disappoint"
+  },
+  {
+    "id": 262,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিসক্রিমিনেশন",
+    "word": "Discrimination",
+    "trick": "Discrimination"
+  },
+  {
+    "id": 263,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডিসটিংক্ট",
+    "word": "Distinct",
+    "trick": "Distinct"
+  },
+  {
+    "id": 264,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডাইভারসিটি",
+    "word": "Diversity",
+    "trick": "Diversity"
+  },
+  {
+    "id": 265,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ডোমিন্যান্ট",
+    "word": "Dominant",
+    "trick": "Dominant"
+  },
+  {
+    "id": 266,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ড্রামাটিক",
+    "word": "Dramatic",
+    "trick": "Dramatic"
+  },
+  {
+    "id": 267,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এফিসিয়েন্সি",
+    "word": "Efficiency",
+    "trick": "Efficiency"
+  },
+  {
+    "id": 268,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এমফাসাইজ",
+    "word": "Emphasize",
+    "trick": "Emphasize"
+  },
+  {
+    "id": 269,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এমপিরিক্যাল",
+    "word": "Empirical",
+    "trick": "Empirical"
+  },
+  {
+    "id": 270,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এনোরমাস",
+    "word": "Enormous",
+    "trick": "Enormous"
+  },
+  {
+    "id": 271,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এনথুসিয়াজম",
+    "word": "Enthusiasm",
+    "trick": "Enthusiasm"
+  },
+  {
+    "id": 272,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইকুইভ্যালেন্ট",
+    "word": "Equivalent",
+    "trick": "Equivalent"
+  },
+  {
+    "id": 273,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এসেনশিয়াল",
+    "word": "Essential",
+    "trick": "Essential"
+  },
+  {
+    "id": 274,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এস্টাবলিশমেন্ট",
+    "word": "Establishment",
+    "trick": "Establishment"
+  },
+  {
+    "id": 275,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইভালুয়েট",
+    "word": "Evaluate",
+    "trick": "Evaluate"
+  },
+  {
+    "id": 276,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সাজারেট",
+    "word": "Exaggerate",
+    "trick": "Exaggerate"
+  },
+  {
+    "id": 277,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সিলেন্স",
+    "word": "Excellence",
+    "trick": "Excellence"
+  },
+  {
+    "id": 278,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সেপশন",
+    "word": "Exception",
+    "trick": "Exception"
+  },
+  {
+    "id": 279,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সহস্টিভ",
+    "word": "Exhaustive",
+    "trick": "Exhaustive"
+  },
+  {
+    "id": 280,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সপ্যানশন",
+    "word": "Expansion",
+    "trick": "Expansion"
+  },
+  {
+    "id": 281,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সপেক্টেশন",
+    "word": "Expectation",
+    "trick": "Expectation"
+  },
+  {
+    "id": 282,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সপেরিয়েন্স",
+    "word": "Experience",
+    "trick": "Experience"
+  },
+  {
+    "id": 283,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "এক্সপ্ল্যানেশন",
+    "word": "Explanation",
+    "trick": "Explanation"
+  },
+  {
+    "id": 284,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফ্যাসিনেটিং",
+    "word": "Fascinating",
+    "trick": "Fascinating"
+  },
+  {
+    "id": 285,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফ্লাকচুয়েশন",
+    "word": "Fluctuation",
+    "trick": "Fluctuation"
+  },
+  {
+    "id": 286,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "জেনারেসিটি",
+    "word": "Generosity",
+    "trick": "Generosity"
+  },
+  {
+    "id": 287,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "হায়ারার্কি",
+    "word": "Hierarchy",
+    "trick": "Hierarchy"
+  },
+  {
+    "id": 288,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "হিপোক্রেসি",
+    "word": "Hypocrisy",
+    "trick": "Hypocrisy"
+  },
+  {
+    "id": 289,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আইডেন্টিফাই",
+    "word": "Identify",
+    "trick": "Identify"
+  },
+  {
+    "id": 290,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইলিউশন",
+    "word": "Illusion",
+    "trick": "Illusion"
+  },
+  {
+    "id": 291,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইলাস্ট্রেশন",
+    "word": "Illustration",
+    "trick": "Illustration"
+  },
+  {
+    "id": 292,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইমপ্লিমেন্ট",
+    "word": "Implement",
+    "trick": "Implement"
+  },
+  {
+    "id": 293,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইমপ্লিকেশন",
+    "word": "Implication",
+    "trick": "Implication"
+  },
+  {
+    "id": 294,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইম্প্রেশন",
+    "word": "Impression",
+    "trick": "Impression"
+  },
+  {
+    "id": 295,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনসিডেন্স",
+    "word": "Incidence",
+    "trick": "Incidence"
+  },
+  {
+    "id": 296,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনক্রেডিবল",
+    "word": "Incredible",
+    "trick": "Incredible"
+  },
+  {
+    "id": 297,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনডিসপেনসেবল",
+    "word": "Indispensable",
+    "trick": "Indispensable"
+  },
+  {
+    "id": 298,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইন্ডিভিজুয়াল",
+    "word": "Individual",
+    "trick": "Individual"
+  },
+  {
+    "id": 299,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনেভিটেবল",
+    "word": "Inevitable",
+    "trick": "Inevitable"
+  },
+  {
+    "id": 300,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনফ্লুয়েন্স",
+    "word": "Influence",
+    "trick": "Influence"
+  },
+  {
+    "id": 301,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনিশিয়েটিভ",
+    "word": "Initiative",
+    "trick": "Initiative"
+  },
+  {
+    "id": 302,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইন্টারঅ্যাকশন",
+    "word": "Interaction",
+    "trick": "Interaction"
+  },
+  {
+    "id": 303,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইন্টারপ্রিটেশন",
+    "word": "Interpretation",
+    "trick": "Interpretation"
+  },
+  {
+    "id": 304,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইন্টারাপশন",
+    "word": "Interruption",
+    "trick": "Interruption"
+  },
+  {
+    "id": 305,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইন্টারভেনশন",
+    "word": "Intervention",
+    "trick": "Intervention"
+  },
+  {
+    "id": 306,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইনভেস্টিগেশন",
+    "word": "Investigation",
+    "trick": "Investigation"
+  },
+  {
+    "id": 307,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইরিগেশন",
+    "word": "Irrigation",
+    "trick": "Irrigation"
+  },
+  {
+    "id": 308,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "জাস্টিফিকেশন",
+    "word": "Justification",
+    "trick": "Justification"
+  },
+  {
+    "id": 309,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "লিডারশিপ",
+    "word": "Leadership",
+    "trick": "Leadership"
+  },
+  {
+    "id": 310,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "লেজিটিমেট",
+    "word": "Legitimate",
+    "trick": "Legitimate"
+  },
+  {
+    "id": 311,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "লাইকলিহুড",
+    "word": "Likelihood",
+    "trick": "Likelihood"
+  },
+  {
+    "id": 312,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "লিমিটেশন",
+    "word": "Limitation",
+    "trick": "Limitation"
+  },
+  {
+    "id": 313,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "লিঙ্গুইস্টিক",
+    "word": "Linguistic",
+    "trick": "Linguistic"
+  },
+  {
+    "id": 314,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ম্যাগনিটিউড",
+    "word": "Magnitude",
+    "trick": "Magnitude"
+  },
+  {
+    "id": 315,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ম্যান্ডেটরি",
+    "word": "Mandatory",
+    "trick": "Mandatory"
+  },
+  {
+    "id": 316,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ম্যানিপুলেশন",
+    "word": "Manipulation",
+    "trick": "Manipulation"
+  },
+  {
+    "id": 317,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "মেকানিজম",
+    "word": "Mechanism",
+    "trick": "Mechanism"
+  },
+  {
+    "id": 318,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "মিসচিভাস",
+    "word": "Mischievous",
+    "trick": "Mischievous"
+  },
+  {
+    "id": 319,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "মনোটোনাস",
+    "word": "Monotonous",
+    "trick": "Monotonous"
+  },
+  {
+    "id": 320,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "মোটিভেশন",
+    "word": "Motivation",
+    "trick": "Motivation"
+  },
+  {
+    "id": 321,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "নেগ্লিজেন্স",
+    "word": "Negligence",
+    "trick": "Negligence"
+  },
+  {
+    "id": 322,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "নেগোশিয়েশন",
+    "word": "Negotiation",
+    "trick": "Negotiation"
+  },
+  {
+    "id": 323,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "নেইবার",
+    "word": "Neighbor",
+    "trick": "Neighbor"
+  },
+  {
+    "id": 324,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অবজেক্টিভ",
+    "word": "Objective",
+    "trick": "Objective"
+  },
+  {
+    "id": 325,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অবলিগেশন",
+    "word": "Obligation",
+    "trick": "Obligation"
+  },
+  {
+    "id": 326,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অবজারভেশন",
+    "word": "Observation",
+    "trick": "Observation"
+  },
+  {
+    "id": 327,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "অবস্ট্যাকল",
+    "word": "Obstacle",
+    "trick": "Obstacle"
+  },
+  {
+    "id": 328,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ওকারেন্স",
+    "word": "Occurrence",
+    "trick": "Occurrence"
+  },
+  {
+    "id": 329,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ওরিয়েন্টেশন",
+    "word": "Orientation",
+    "trick": "Orientation"
+  },
+  {
+    "id": 330,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ওভারকাম",
+    "word": "Overcome",
+    "trick": "Overcome"
+  },
+  {
+    "id": 331,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্যারালাল",
+    "word": "Parallel",
+    "trick": "Parallel"
+  },
+  {
+    "id": 332,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পার্টিসিপ্যান্ট",
+    "word": "Participant",
+    "trick": "Participant"
+  },
+  {
+    "id": 333,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পার্টিকুলার",
+    "word": "Particular",
+    "trick": "Particular"
+  },
+  {
+    "id": 334,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পারসেপশন",
+    "word": "Perception",
+    "trick": "Perception"
+  },
+  {
+    "id": 335,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পারফর্ম্যান্স",
+    "word": "Performance",
+    "trick": "Performance"
+  },
+  {
+    "id": 336,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পারসপেক্টিভ",
+    "word": "Perspective",
+    "trick": "Perspective"
+  },
+  {
+    "id": 337,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফেনোমেনন",
+    "word": "Phenomenon",
+    "trick": "Phenomenon"
+  },
+  {
+    "id": 338,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "পটেনশিয়াল",
+    "word": "Potential",
+    "trick": "Potential"
+  },
+  {
+    "id": 339,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রিকশন",
+    "word": "Precaution",
+    "trick": "Precaution"
+  },
+  {
+    "id": 340,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রেডিক্টেবল",
+    "word": "Predictable",
+    "trick": "Predictable"
+  },
+  {
+    "id": 341,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রেফারেন্স",
+    "word": "Preference",
+    "trick": "Preference"
+  },
+  {
+    "id": 342,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রিলিমিনারি",
+    "word": "Preliminary",
+    "trick": "Preliminary"
+  },
+  {
+    "id": 343,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রিপারেশন",
+    "word": "Preparation",
+    "trick": "Preparation"
+  },
+  {
+    "id": 344,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রেভালেন্ট",
+    "word": "Prevalent",
+    "trick": "Prevalent"
+  },
+  {
+    "id": 345,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রায়োরিটি",
+    "word": "Priority",
+    "trick": "Priority"
+  },
+  {
+    "id": 346,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রোবাবিলিটি",
+    "word": "Probability",
+    "trick": "Probability"
+  },
+  {
+    "id": 347,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রোসিডিউর",
+    "word": "Procedure",
+    "trick": "Procedure"
+  },
+  {
+    "id": 348,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "প্রোপোরশন",
+    "word": "Proportion",
+    "trick": "Proportion"
+  },
+  {
+    "id": 349,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাইকোলজিক্যাল",
+    "word": "Psychological",
+    "trick": "Psychological"
+  },
+  {
+    "id": 350,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কোয়ালিটেটিভ",
+    "word": "Qualitative",
+    "trick": "Qualitative"
+  },
+  {
+    "id": 351,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কোয়ান্টিটেটিভ",
+    "word": "Quantitative",
+    "trick": "Quantitative"
+  },
+  {
+    "id": 352,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "কোশ্চেনায়ার",
+    "word": "Questionnaire",
+    "trick": "Questionnaire"
+  },
+  {
+    "id": 353,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "র্যান্ডম",
+    "word": "Random",
+    "trick": "Random"
+  },
+  {
+    "id": 354,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেশনাল",
+    "word": "Rational",
+    "trick": "Rational"
+  },
+  {
+    "id": 355,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেকগনিশন",
+    "word": "Recognition",
+    "trick": "Recognition"
+  },
+  {
+    "id": 356,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেকমান্ডেশন",
+    "word": "Recommendation",
+    "trick": "Recommendation"
+  },
+  {
+    "id": 357,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিডানড্যান্সি",
+    "word": "Redundancy",
+    "trick": "Redundancy"
+  },
+  {
+    "id": 358,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেফারেন্ডাম",
+    "word": "Refendum",
+    "trick": "Refendum"
+  },
+  {
+    "id": 359,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেগুলেশন",
+    "word": "Regulation",
+    "trick": "Regulation"
+  },
+  {
+    "id": 360,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেলেভ্যান্স",
+    "word": "Relevance",
+    "trick": "Relevance"
+  },
+  {
+    "id": 361,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিল্যায়াবিলিটি",
+    "word": "Reliability",
+    "trick": "Reliability"
+  },
+  {
+    "id": 362,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিল্যাকট্যান্ট",
+    "word": "Reluctant",
+    "trick": "Reluctant"
+  },
+  {
+    "id": 363,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রিকোয়ারমেন্ট",
+    "word": "Requirement",
+    "trick": "Requirement"
+  },
+  {
+    "id": 364,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেজিস্ট্যান্স",
+    "word": "Resistance",
+    "trick": "Resistance"
+  },
+  {
+    "id": 365,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেজোলিউশন",
+    "word": "Resolution",
+    "trick": "Resolution"
+  },
+  {
+    "id": 366,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেসপেক্টিভ",
+    "word": "Respective",
+    "trick": "Respective"
+  },
+  {
+    "id": 367,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেস্ট্রিকশন",
+    "word": "Restriction",
+    "trick": "Restriction"
+  },
+  {
+    "id": 368,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "রেভোলিউশনারি",
+    "word": "Revolutionary",
+    "trick": "Revolutionary"
+  },
+  {
+    "id": 369,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্যাক্রিফাইস",
+    "word": "Sacrifice",
+    "trick": "Sacrifice"
+  },
+  {
+    "id": 370,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্যাঙ্কচুয়ারি",
+    "word": "Sanctuary",
+    "trick": "Sanctuary"
+  },
+  {
+    "id": 371,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সিনারিও",
+    "word": "Scenario",
+    "trick": "Scenario"
+  },
+  {
+    "id": 372,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সেক্যুলার",
+    "word": "Secular",
+    "trick": "Secular"
+  },
+  {
+    "id": 373,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সেগ্রিগেশন",
+    "word": "Segregation",
+    "trick": "Segregation"
+  },
+  {
+    "id": 374,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সিকোয়েন্স",
+    "word": "Sequence",
+    "trick": "Sequence"
+  },
+  {
+    "id": 375,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সিগনিফিক্যান্স",
+    "word": "Significance",
+    "trick": "Significance"
+  },
+  {
+    "id": 376,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাইমালটেনিয়াস",
+    "word": "Simultaneous",
+    "trick": "Simultaneous"
+  },
+  {
+    "id": 377,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সোভেরেনটি",
+    "word": "Sovereignty",
+    "trick": "Sovereignty"
+  },
+  {
+    "id": 378,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্পেসিফিক",
+    "word": "Specific",
+    "trick": "Specific"
+  },
+  {
+    "id": 379,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্পেকুলেশন",
+    "word": "Speculation",
+    "trick": "Speculation"
+  },
+  {
+    "id": 380,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্পন্টেনিয়াস",
+    "word": "Spontaneous",
+    "trick": "Spontaneous"
+  },
+  {
+    "id": 381,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্ট্যাটিস্টিক্স",
+    "word": "Statistics",
+    "trick": "Statistics"
+  },
+  {
+    "id": 382,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্ট্র্যাটেজি",
+    "word": "Strategy",
+    "trick": "Strategy"
+  },
+  {
+    "id": 383,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "স্ট্রাকচার",
+    "word": "Structure",
+    "trick": "Structure"
+  },
+  {
+    "id": 384,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাবস্ট্যানশিয়াল",
+    "word": "Substantial",
+    "trick": "Substantial"
+  },
+  {
+    "id": 385,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাফিশিয়েন্ট",
+    "word": "Sufficient",
+    "trick": "Sufficient"
+  },
+  {
+    "id": 386,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সুপারভিশন",
+    "word": "Supervision",
+    "trick": "Supervision"
+  },
+  {
+    "id": 387,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সাপ্লিমেন্ট",
+    "word": "Supplement",
+    "trick": "Supplement"
+  },
+  {
+    "id": 388,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সার্ভেইল্যান্স",
+    "word": "Surveillance",
+    "trick": "Surveillance"
+  },
+  {
+    "id": 389,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সিমপ্যাথেটিক",
+    "word": "Sympathetic",
+    "trick": "Sympathetic"
+  },
+  {
+    "id": 390,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "সিস্টেমেটিক",
+    "word": "Systematic",
+    "trick": "Systematic"
+  },
+  {
+    "id": 391,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "টার্গেট",
+    "word": "Target",
+    "trick": "Target"
+  },
+  {
+    "id": 392,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "টেকনিক",
+    "word": "Technique",
+    "trick": "Technique"
+  },
+  {
+    "id": 393,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "টেন্ডেন্সি",
+    "word": "Tendency",
+    "trick": "Tendency"
+  },
+  {
+    "id": 394,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "থিওরেটিক্যাল",
+    "word": "Theoretical",
+    "trick": "Theoretical"
+  },
+  {
+    "id": 395,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ট্রেডিশন",
+    "word": "Tradition",
+    "trick": "Tradition"
+  },
+  {
+    "id": 396,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ট্রান্সফরমেশন",
+    "word": "Transformation",
+    "trick": "Transformation"
+  },
+  {
+    "id": 397,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ট্রানজিশন",
+    "word": "Transition",
+    "trick": "Transition"
+  },
+  {
+    "id": 398,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ট্রেমেন্ডাস",
+    "word": "Tremendous",
+    "trick": "Tremendous"
+  },
+  {
+    "id": 399,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইউন্যানিমাস",
+    "word": "Unanimous",
+    "trick": "Unanimous"
+  },
+  {
+    "id": 400,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আনসার্টেইনটি",
+    "word": "Uncertainty",
+    "trick": "Uncertainty"
+  },
+  {
+    "id": 401,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আন্ডারএস্টিমেট",
+    "word": "Underestimate",
+    "trick": "Underestimate"
+  },
+  {
+    "id": 402,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আন্ডারটেক",
+    "word": "Undertake",
+    "trick": "Undertake"
+  },
+  {
+    "id": 403,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইউইউনিফরমিটি",
+    "word": "Uniformity",
+    "trick": "Uniformity"
+  },
+  {
+    "id": 404,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "আনপ্রেসিডেন্টেড",
+    "word": "Unprecedented",
+    "trick": "Unprecedented"
+  },
+  {
+    "id": 405,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ইউটিলাইজেশন",
+    "word": "Utilization",
+    "trick": "Utilization"
+  },
+  {
+    "id": 406,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভ্যালিডিটি",
+    "word": "Validity",
+    "trick": "Validity"
+  },
+  {
+    "id": 407,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভেরিফিকেশন",
+    "word": "Verification",
+    "trick": "Verification"
+  },
+  {
+    "id": 408,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভার্সাটাইল",
+    "word": "Versatile",
+    "trick": "Versatile"
+  },
+  {
+    "id": 409,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভার্চুয়ালি",
+    "word": "Virtually",
+    "trick": "Virtually"
+  },
+  {
+    "id": 410,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভোকেবুলারি",
+    "word": "Vocabulary",
+    "trick": "Vocabulary"
+  },
+  {
+    "id": 411,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ভালনারেবিলিটি",
+    "word": "Vulnerability",
+    "trick": "Vulnerability"
+  },
+  {
+    "id": 412,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ওয়াইডস্প্রেড",
+    "word": "Widespread",
+    "trick": "Widespread"
+  },
+  {
+    "id": 413,
+    "category": "Common High-Frequency IELTS Words",
+    "bangla": "ফিল্ড / ইল্ড",
+    "word": "Yield",
+    "trick": "Yield"
+  }
+]

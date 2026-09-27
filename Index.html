@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IELTS Adaptive Spelling Engine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="app-header">
+      <h1>IELTS Adaptive Spelling Practice</h1>
+      <p class="subtitle">10-Card Micro-Session • Spaced Repetition System</p>
+    </header>
+
+    <main class="card">
+      <div class="card-header">
+        <span class="badge" id="card-badge">Card 1/10</span>
+        <span class="score-badge" id="score-badge">Score: 0/0</span>
+      </div>
+
+      <div class="card-body">
+        <h2 id="bangla-hint" class="bangla-hint">Loading hint...</h2>
+        
+        <form id="practice-form" autocomplete="off">
+          <div class="input-group">
+            <input 
+              type="text" 
+              id="user-input" 
+              placeholder="Type English spelling..." 
+              autofocus 
+              required
+            >
+            <button type="submit" id="submit-btn">Check</button>
+          </div>
+        </form>
+
+        <div id="feedback" class="feedback-box hidden"></div>
+        <div id="memory-trick" class="trick-box hidden"></div>
+      </div>
+
+      <footer class="card-footer">
+        <button id="next-btn" class="secondary-btn hidden">Next Card →</button>
+        <button id="reset-session-btn" class="outline-btn">Complete & Pull New Cards</button>
+      </footer>
+    </main>
+
+    <!-- Master Log Metrics Overview -->
+    <section class="metrics-panel">
+      <h3>Master Log Statistics</h3>
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <span class="metric-value" id="stat-total-words">0</span>
+          <span class="metric-label">Total Pool</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" id="stat-attempted">0</span>
+          <span class="metric-label">Attempted</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" id="stat-mistakes">0</span>
+          <span class="metric-label">Total Mistakes</span>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
