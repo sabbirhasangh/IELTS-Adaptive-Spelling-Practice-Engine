@@ -256,3 +256,70 @@ body {
 .modal-body {
   overflow-y: auto;
 }
+/* Responsive Layout Improvements */
+.main-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+
+.practice-card {
+  width: 100%;
+  padding: 16px; /* Slightly tighter padding for smaller displays */
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile iOS */
+}
+
+/* Fixed cell widths to prevent overflow off desktop screens */
+.practice-table {
+  width: 100%;
+  table-layout: auto;
+  min-width: 600px; /* Ensures table columns don't squish unreadably on mobile */
+}
+
+/* Mobile Specific Tweaks (Phones under 768px) */
+@media (max-width: 768px) {
+  body {
+    padding: 12px 8px;
+  }
+
+  .app-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .header-actions {
+    width: 100%;
+  }
+
+  .header-actions .btn {
+    width: 100%;
+  }
+
+  .practice-table th, 
+  .practice-table td {
+    padding: 8px 10px;
+    font-size: 0.85rem;
+  }
+
+  .pronunciation {
+    font-size: 0.95rem;
+  }
+
+  .input-field {
+    padding: 8px;
+    font-size: 0.85rem;
+  }
+
+  .modal-content {
+    width: 95%;
+    max-height: 90vh;
+    padding: 16px;
+  }
+}
